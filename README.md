@@ -6,8 +6,14 @@ It is a modern, responsive web app that lets you effortlessly explore a curated 
 
 # Technologies and Libraries Used
 
-- [ReactJS 19.0.0-rc](https://reactjs.org/)
-- [Next.js 15.0.0-canary](https://nextjs.org/)
+| Library                          | Version |
+| -------------------------------- | ------- |
+| [React](https://reactjs.org/)                                                                            | v19     |
+| [Next.js](https://nextjs.org/)                                                                           | v15     |
+| [Material UI](https://mui.com)                                                                           | v6      |
+| [React Spring](https://www.react-spring.dev)                                                             | v9      |
+| [Emotion](https://emotion.sh/docs/introduction)                                                          | v11      |
+
 
 ---
 
