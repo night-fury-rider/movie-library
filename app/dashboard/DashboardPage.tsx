@@ -76,7 +76,7 @@ const DashboardPage = () => {
                   sx={styles.searchbar}
                 />
               </Grid>
-              <Grid offset={{ xs: 1, md: 1 }} size={{ xs: 5, md: 2 }}>
+              <Grid offset={{ xs: 0, md: 1 }} size={{ xs: 6, md: 2 }}>
                 {/* Genre Filter  */}
                 <MovieFilter
                   primaryOptionLabel={MOVIES.genres.primaryTitle}
@@ -87,7 +87,7 @@ const DashboardPage = () => {
                   title={MOVIES.card.genre}
                 />
               </Grid>
-              <Grid offset={{ xs: 1, md: 0 }} size={{ xs: 5, md: 2 }}>
+              <Grid size={{ xs: 6, md: 2 }}>
                 {/* IMDB Filter  */}
                 <MovieFilter
                   primaryOptionLabel={MOVIES.ratings.primaryTitle}
@@ -98,7 +98,7 @@ const DashboardPage = () => {
                   title={MOVIES.card.imdbRating}
                 />
               </Grid>
-              <Grid offset={{ xs: 1, md: 0 }} size={{ xs: 5, md: 2 }}>
+              <Grid size={{ xs: 5, md: 2 }}>
                 {/* Custom Rating Filter  */}
                 <MovieFilter
                   primaryOptionLabel={MOVIES.ratings.primaryTitle}
