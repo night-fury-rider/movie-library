@@ -3,12 +3,14 @@
 import React, { useEffect, useState } from "react";
 import { Container, Box, Paper, TextField } from "@mui/material";
 import Grid from "@mui/material/Grid2";
+
+import APP_CONFIG from "../lib/app.config.constants";
 import moviesData from "../../public/movies.json";
 import MovieFilter from "../ui/MovieFilter";
 import MovieList from "../ui/MovieList";
 import { MOVIES } from "../lib/strings.constants";
 import MovieCount from "../ui/MovieCount";
-import APP_CONFIG from "../lib/app.config.constants";
+import GoToTopButton from "../ui/GoToTopButton";
 
 const DashboardPage = () => {
   const [movies, setMovies] = useState(moviesData);
@@ -117,6 +119,7 @@ const DashboardPage = () => {
         {/* Movie List */}
         <MovieList movies={movies} />
       </Box>
+      <GoToTopButton />
     </Container>
   );
 };
