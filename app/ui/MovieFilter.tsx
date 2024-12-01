@@ -50,7 +50,7 @@ const styles = {
     justifyContent: "center",
     width: 150,
   },
-  dropdownContainer: { width: 50 },
+  dropdownContainer: { width: 150 },
   dropdown: {
     borderRadius: "12px",
     backgroundColor: "#f5f5f5",

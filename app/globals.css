@@ -5,15 +5,6 @@ body {
   padding: 0;
 }
 
-@keyframes particles {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: 100% 100%;
-  }
-}
-
 .MuiContainer-root {
   background-color: white;
   border-radius: 10px;

@@ -58,61 +58,59 @@ const DashboardPage = () => {
 
   return (
     <Container>
-      <Box my={4}>
-        <Paper sx={styles.container}>
+      <Box my={4} sx={[styles.container]}>
+        <Paper>
           {/* Flexbox container for search and filters */}
           <Box sx={styles.searchAndFilterContainer}>
-            <Box sx={{ flexGrow: 1 }}>
-              <Grid container spacing={2}>
-                <Grid size={{ xs: 12, md: 5 }}>
-                  {/* Search Bar */}
-                  <TextField
-                    label={MOVIES.searchbar.title}
-                    variant="outlined"
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                    fullWidth
-                    sx={styles.searchbar}
-                  />
-                </Grid>
-                <Grid offset={{ xs: 1, md: "auto" }} size={{ xs: 5, md: 2 }}>
-                  {/* Genre Filter  */}
-                  <MovieFilter
-                    primaryOptionLabel={MOVIES.genres.primaryTitle}
-                    primaryOptionValue={MOVIES.genres.primaryTitle}
-                    options={MOVIES.genres.categories}
-                    selectedFilter={selectedGenre}
-                    setSelectedFilter={setSelectedGenre}
-                    title={MOVIES.card.genre}
-                  />
-                </Grid>
-                <Grid offset={{ xs: 1, md: "auto" }} size={{ xs: 5, md: 2 }}>
-                  {/* IMDB Filter  */}
-                  <MovieFilter
-                    primaryOptionLabel={MOVIES.ratings.primaryTitle}
-                    primaryOptionValue={APP_CONFIG.ratings.primaryValue}
-                    options={APP_CONFIG.ratings.imdbRatings}
-                    selectedFilter={selectedIMDBRating}
-                    setSelectedFilter={setSelectedIMDBRating}
-                    title={MOVIES.card.imdbRating}
-                  />
-                </Grid>
-                <Grid offset={{ xs: 1, md: "auto" }} size={{ xs: 5, md: 2 }}>
-                  {/* Custom Rating Filter  */}
-                  <MovieFilter
-                    primaryOptionLabel={MOVIES.ratings.primaryTitle}
-                    primaryOptionValue={APP_CONFIG.ratings.primaryValue}
-                    options={APP_CONFIG.ratings.customRatings}
-                    selectedFilter={selectedCustomRating}
-                    setSelectedFilter={setSelectedCustomRating}
-                    title={MOVIES.card.customRating}
-                  />
-                </Grid>
-                <Grid offset={{ xs: 1, md: "auto" }} size={{ xs: 5, md: 1 }}>
-                  <MovieCount totalMovies={movies.length} />
-                </Grid>
+            <Grid container spacing={2}>
+              <Grid size={{ xs: 12, md: 4 }}>
+                {/* Search Bar */}
+                <TextField
+                  label={MOVIES.searchbar.title}
+                  variant="outlined"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  fullWidth
+                  sx={styles.searchbar}
+                />
               </Grid>
-            </Box>
+              <Grid offset={{ xs: 1, md: 1 }} size={{ xs: 5, md: 2 }}>
+                {/* Genre Filter  */}
+                <MovieFilter
+                  primaryOptionLabel={MOVIES.genres.primaryTitle}
+                  primaryOptionValue={MOVIES.genres.primaryTitle}
+                  options={MOVIES.genres.categories}
+                  selectedFilter={selectedGenre}
+                  setSelectedFilter={setSelectedGenre}
+                  title={MOVIES.card.genre}
+                />
+              </Grid>
+              <Grid offset={{ xs: 1, md: 0 }} size={{ xs: 5, md: 2 }}>
+                {/* IMDB Filter  */}
+                <MovieFilter
+                  primaryOptionLabel={MOVIES.ratings.primaryTitle}
+                  primaryOptionValue={APP_CONFIG.ratings.primaryValue}
+                  options={APP_CONFIG.ratings.imdbRatings}
+                  selectedFilter={selectedIMDBRating}
+                  setSelectedFilter={setSelectedIMDBRating}
+                  title={MOVIES.card.imdbRating}
+                />
+              </Grid>
+              <Grid offset={{ xs: 1, md: 0 }} size={{ xs: 5, md: 2 }}>
+                {/* Custom Rating Filter  */}
+                <MovieFilter
+                  primaryOptionLabel={MOVIES.ratings.primaryTitle}
+                  primaryOptionValue={APP_CONFIG.ratings.primaryValue}
+                  options={APP_CONFIG.ratings.customRatings}
+                  selectedFilter={selectedCustomRating}
+                  setSelectedFilter={setSelectedCustomRating}
+                  title={MOVIES.card.customRating}
+                />
+              </Grid>
+              <Grid offset={{ xs: 1, md: "auto" }} size={{ xs: 5, md: 1 }}>
+                <MovieCount totalMovies={movies.length} />
+              </Grid>
+            </Grid>
           </Box>
         </Paper>
 
@@ -124,24 +122,14 @@ const DashboardPage = () => {
 };
 
 const styles = {
-  container: {},
+  container: { paddingTop: 2 },
   filters: {
-    display: "flex",
-    justifyContent: "space-around",
     alignItems: "center",
-    flex: 1,
   },
-  searchAndFilterContainer: {
-    display: "flex",
-    flexWrap: "wrap",
-    justifyContent: "space-between",
-    alignItems: "center",
-    flexGrow: 1,
-  },
+  searchAndFilterContainer: {},
   searchbar: {
     backgroundColor: "#f5f5f5",
     borderRadius: "8px",
-    flex: 1,
   },
 };
 

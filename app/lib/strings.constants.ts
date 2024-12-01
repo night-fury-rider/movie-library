@@ -9,6 +9,10 @@ export const COMMON = {
   errorsMsg: {
     itemNotFound: "Unable to find the item",
   },
+  metadata: {
+    title: "Movie Library",
+    description: "Modern web app to explore a curated movie collection",
+  },
 };
 
 export const MOVIES = {

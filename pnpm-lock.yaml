@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@emotion/cache':
+        specifier: 11.13.5
+        version: 11.13.5
       '@emotion/react':
         specifier: 11.13.5
         version: 11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704)
@@ -20,6 +23,9 @@ importers:
       '@mui/material':
         specifier: 6.1.8
         version: 6.1.8(@emotion/react@11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@types/react@18.3.12)(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)
+      '@mui/material-nextjs':
+        specifier: 6.1.9
+        version: 6.1.9(@emotion/cache@11.13.5)(@emotion/react@11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@types/react@18.3.12)(next@15.0.0-canary.56(@babel/core@7.26.0)(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)
       clsx:
         specifier: 2.1.1
         version: 2.1.1
@@ -968,6 +974,24 @@ packages:
 
   '@mui/core-downloads-tracker@6.1.8':
     resolution: {integrity: sha512-TGAvzwUg9hybDacwfIGFjI2bXYXrIqky+vMfaeay8rvT56/PNAlvIDUJ54kpT5KRc9AWAihOvtDI7/LJOThOmQ==}
+
+  '@mui/material-nextjs@6.1.9':
+    resolution: {integrity: sha512-QIJANZt6tkRLoeRsIa0KoC4+MMywTIPQbthL2U2VXHLyrRan00+Yc2M+NFP85/EnPxNEUCRf19l4WKNaPtyetQ==}
+    engines: {node: '>=14.0.0'}
+    peerDependencies:
+      '@emotion/cache': ^11.11.0
+      '@emotion/react': ^11.11.4
+      '@emotion/server': ^11.11.0
+      '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
+      next: ^13.0.0 || ^14.0.0 || ^15.0.0
+      react: ^17.0.0 || ^18.0.0 || ^19.0.0
+    peerDependenciesMeta:
+      '@emotion/cache':
+        optional: true
+      '@emotion/server':
+        optional: true
+      '@types/react':
+        optional: true
 
   '@mui/material@6.1.8':
     resolution: {integrity: sha512-QZdQFnXct+7NXIzHgT3qt+sQiO7HYGZU2vymP9Xl9tUMXEOA/S1mZMMb7+WGZrk5TzNlU/kP/85K0da5V1jXoQ==}
@@ -3927,6 +3951,16 @@ snapshots:
       '@jridgewell/sourcemap-codec': 1.5.0
 
   '@mui/core-downloads-tracker@6.1.8': {}
+
+  '@mui/material-nextjs@6.1.9(@emotion/cache@11.13.5)(@emotion/react@11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@types/react@18.3.12)(next@15.0.0-canary.56(@babel/core@7.26.0)(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)':
+    dependencies:
+      '@babel/runtime': 7.26.0
+      '@emotion/react': 11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704)
+      next: 15.0.0-canary.56(@babel/core@7.26.0)(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)
+      react: 19.0.0-rc-f38c22b244-20240704
+    optionalDependencies:
+      '@emotion/cache': 11.13.5
+      '@types/react': 18.3.12
 
   '@mui/material@6.1.8(@emotion/react@11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@types/react@18.3.12)(react@19.0.0-rc-f38c22b244-20240704))(@types/react@18.3.12)(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)':
     dependencies:
