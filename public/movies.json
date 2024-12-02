@@ -901,54 +901,54 @@
   },
   {
     "id": 102,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.8,
     "title": "Men in Black 3",
     "year": 2012,
     "poster": "/movie-thumbnails/men-in-black-3_2012.jpg"
   },
   {
     "id": 103,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Horror Ghost"],
-    "imdbRating": 0,
+    "imdbRating": 4.6,
     "title": "Paranormal Activity 4",
     "year": 2012,
     "poster": "/movie-thumbnails/paranormal-activity_2012.jpg"
   },
   {
     "id": 104,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Prometheus",
     "year": 2012,
     "poster": "/movie-thumbnails/prometheus_2012.jpg"
   },
   {
     "id": 105,
-    "customRating": 0,
+    "customRating": 5,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 5.3,
     "title": "Resident Evil: Retribution",
     "year": 2012,
     "poster": "/movie-thumbnails/resident-evil-retribution_2012.jpg"
   },
   {
     "id": 106,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 5.8,
     "title": "Starship Troopers Invasion",
     "year": 2012,
     "poster": "/movie-thumbnails/starship-troopers-invasion_2012.jpg"
   },
   {
     "id": 107,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Dance"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "Step Up Revolution",
     "year": 2012,
     "poster": "/movie-thumbnails/step-up-revolution_2012.jpg"
@@ -964,36 +964,36 @@
   },
   {
     "id": 109,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Ted",
     "year": 2012,
     "poster": "/movie-thumbnails/ted_2012.jpg"
   },
   {
     "id": 110,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 8,
     "title": "The Avengers",
     "year": 2012,
     "poster": "/movie-thumbnails/the-avengers_2012.jpg"
   },
   {
     "id": 111,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 8.4,
     "title": "The Dark Knight Rises",
     "year": 2012,
     "poster": "/movie-thumbnails/batman_2012.jpg"
   },
   {
     "id": 112,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "The Dictator",
     "year": 2012,
     "poster": "/movie-thumbnails/the-dictator_2012.jpg"
@@ -1009,63 +1009,63 @@
   },
   {
     "id": 114,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.8,
     "title": "The Hobbit: An Unexpected Journey",
     "year": 2012,
     "poster": "/movie-thumbnails/the-hobbit-an-unexpected-journey_2012.jpg"
   },
   {
     "id": 115,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.2,
     "title": "The Hunger Games",
     "year": 2012,
     "poster": "/movie-thumbnails/the-hunger-games_2012.jpg"
   },
   {
     "id": 116,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 5.6,
     "title": "The Twilight Saga: Breaking Dawn - Part 2",
     "year": 2012,
     "poster": "/movie-thumbnails/the-twilight-saga-breaking-dawn-part-2_2012.jpg"
   },
   {
     "id": 117,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Total Recall",
     "year": 2012,
     "poster": "/movie-thumbnails/total-recall_2012.jpg"
   },
   {
     "id": 118,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Underworld Awakening",
     "year": 2012,
     "poster": "/movie-thumbnails/underworld-awakening_2012.jpg"
   },
   {
     "id": 119,
-    "customRating": 0,
-    "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "customRating": 8,
+    "genres": ["Sci-Fi", "Romance"],
+    "imdbRating": 6.3,
     "title": "Upside Down",
     "year": 2012,
     "poster": "/movie-thumbnails/upside-down_2012.jpg"
   },
   {
     "id": 120,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 5.7,
     "title": "Wrath of the Titans",
     "year": 2012,
     "poster": "/movie-thumbnails/wrath-of-the-titans_2012.jpg"
@@ -1080,15 +1080,6 @@
     "poster": "/movie-thumbnails/blitz_2011.jpg"
   },
   {
-    "id": 122,
-    "customRating": 0,
-    "genres": ["Animation"],
-    "imdbRating": 0,
-    "title": "Cars 2",
-    "year": 2011,
-    "poster": "/movie-thumbnails/cars-2_2011.jpg"
-  },
-  {
     "id": 123,
     "customRating": 7,
     "genres": ["Action"],
@@ -1098,199 +1089,172 @@
     "poster": "/movie-thumbnails/fast-five_2011.jpg"
   },
   {
-    "id": 124,
-    "customRating": 0,
-    "genres": ["Fantasy"],
-    "imdbRating": 0,
-    "title": "Ghost Rider: Spirit of Vengeance",
-    "year": 2011,
-    "poster": "/movie-thumbnails/ghost-rider-spirit-of-vengeance_2011.jpg"
-  },
-  {
     "id": 125,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 8.1,
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "year": 2011,
     "poster": "/movie-thumbnails/harry-potter_2011.jpg"
   },
   {
     "id": 126,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.7,
     "title": "In Time",
     "year": 2011,
     "poster": "/movie-thumbnails/in-time_2011.jpg"
   },
   {
-    "id": 127,
-    "customRating": 0,
-    "genres": ["Animation"],
-    "imdbRating": 0,
-    "title": "Kung Fu Panda 2",
-    "year": 2011,
-    "poster": "/movie-thumbnails/kung-fu-panda-2_2011.jpg"
-  },
-  {
     "id": 128,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Limitless",
     "year": 2011,
     "poster": "/movie-thumbnails/limitless_2011.jpg"
   },
   {
     "id": 129,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Mission: Impossible - Ghost Protocol",
     "year": 2011,
     "poster": "/movie-thumbnails/mission-impossible-ghost-protocol_2011.jpg"
   },
   {
     "id": 130,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Horror Ghost"],
-    "imdbRating": 0,
+    "imdbRating": 5.8,
     "title": "Paranormal Activity 3",
     "year": 2011,
     "poster": "/movie-thumbnails/paranormal-activity_2011.jpg"
   },
   {
     "id": 131,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "Pirates of the Caribbean: On Stranger Tides",
     "year": 2011,
     "poster": "/movie-thumbnails/pirates-of-the-caribbean-on-stranger-tides_2011.jpg"
   },
   {
     "id": 132,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "Puss in Boots",
     "year": 2011,
     "poster": "/movie-thumbnails/puss-in-boots_2011.jpg"
   },
   {
     "id": 133,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Rio",
     "year": 2011,
     "poster": "/movie-thumbnails/rio_2011.jpg"
   },
   {
     "id": 134,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Sherlock Holmes: A Game of Shadows",
     "year": 2011,
     "poster": "/movie-thumbnails/sherlock-holmes-a-game-of-shadows_2011.jpg"
   },
   {
     "id": 135,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Source Code",
     "year": 2011,
     "poster": "/movie-thumbnails/source-code_2011.jpg"
   },
   {
     "id": 136,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "The Adjustment Bureau",
     "year": 2011,
     "poster": "/movie-thumbnails/the-adjustment-bureau_2011.jpg"
   },
   {
     "id": 137,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 4.9,
     "title": "The Darkest Hour",
     "year": 2011,
     "poster": "/movie-thumbnails/the-darkest-hour_2011.jpg"
   },
   {
     "id": 138,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "The Hangover Part II",
     "year": 2011,
     "poster": "/movie-thumbnails/the-hangover-part-ii_2011.jpg"
   },
   {
     "id": 139,
-    "customRating": 0,
+    "customRating": 4,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 4.9,
     "title": "The Twilight Saga: Breaking Dawn - Part 1",
     "year": 2011,
     "poster": "/movie-thumbnails/the-twilight-saga-breaking-dawn-part-1_2011.jpg"
   },
   {
     "id": 140,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Thor",
     "year": 2011,
     "poster": "/movie-thumbnails/thor_2011.jpg"
   },
   {
     "id": 141,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Transformers: Dark of the Moon",
     "year": 2011,
     "poster": "/movie-thumbnails/transformers-dark-of-the-moon_2011.jpg"
   },
   {
-    "id": 142,
-    "customRating": 0,
-    "genres": ["Drama"],
-    "imdbRating": 0,
-    "title": "Warrior",
-    "year": 2011,
-    "poster": "/movie-thumbnails/warrior_2011.jpg"
-  },
-  {
     "id": 143,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "X-Men: First Class",
     "year": 2011,
     "poster": "/movie-thumbnails/x-men-first-class_2011.jpg"
   },
   {
     "id": 144,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 5.8,
     "title": "Clash of the Titans",
     "year": 2010,
     "poster": "/movie-thumbnails/clash-of-the-titans_2010.jpg"
   },
   {
     "id": 145,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "Despicable Me",
     "year": 2010,
     "poster": "/movie-thumbnails/despicable-me_2010.jpg"
@@ -1306,18 +1270,18 @@
   },
   {
     "id": 147,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "Harry Potter and the Deathly Hallows: Part 1",
     "year": 2010,
     "poster": "/movie-thumbnails/harry-potter_2010.jpg"
   },
   {
     "id": 148,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "Hot Tub Time Machine",
     "year": 2010,
     "poster": "/movie-thumbnails/hot-tub-time-machine_2010.jpg"
@@ -1333,9 +1297,9 @@
   },
   {
     "id": 150,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 8.8,
     "title": "Inception",
     "year": 2010,
     "poster": "/movie-thumbnails/inception_2010.jpg"
@@ -1351,9 +1315,9 @@
   },
   {
     "id": 152,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Iron Man 2",
     "year": 2010,
     "poster": "/movie-thumbnails/iron-man-2_2010.jpg"
@@ -1369,81 +1333,81 @@
   },
   {
     "id": 154,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "MegaMind",
     "year": 2010,
     "poster": "/movie-thumbnails/megamind_2010.jpg"
   },
   {
     "id": 155,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Horror Ghost"],
-    "imdbRating": 0,
+    "imdbRating": 5.7,
     "title": "Paranormal Activity 2",
     "year": 2010,
     "poster": "/movie-thumbnails/paranormal-activity_2010.jpg"
   },
   {
     "id": 156,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 5.9,
     "title": "Percy Jackson & the Olympians: The Lightning Thief",
     "year": 2010,
     "poster": "/movie-thumbnails/percy-jackson-the-olympians-the-lightning-thief_2010.jpg"
   },
   {
     "id": 157,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "Predators",
     "year": 2010,
     "poster": "/movie-thumbnails/predators_2010.jpg"
   },
   {
     "id": 158,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "Prince of Persia: The Sands of Time",
     "year": 2010,
     "poster": "/movie-thumbnails/prince-of-persia-the-sands-of-time_2010.jpg"
   },
   {
     "id": 159,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Shrek Forever After",
     "year": 2010,
     "poster": "/movie-thumbnails/shrek-forever-after_2010.jpg"
   },
   {
     "id": 160,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Mystery"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "Shutter Island",
     "year": 2010,
     "poster": "/movie-thumbnails/shutter-island_2010.jpg"
   },
   {
     "id": 161,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Dance"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Step Up 3D",
     "year": 2010,
     "poster": "/movie-thumbnails/step-up-3d_2010.jpg"
   },
   {
     "id": 162,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "Tangled",
     "year": 2010,
     "poster": "/movie-thumbnails/tangled_2010.jpg"
@@ -1459,9 +1423,9 @@
   },
   {
     "id": 164,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "The Crazies",
     "year": 2010,
     "poster": "/movie-thumbnails/the-crazies_2010.jpg"
@@ -1477,28 +1441,28 @@
   },
   {
     "id": 166,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 5.1,
     "title": "The Twilight Saga: Eclipse",
     "year": 2010,
     "poster": "/movie-thumbnails/the-twilight-saga-eclipse_2010.jpg"
   },
   {
     "id": 167,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 8.3,
     "title": "Toy Story 3",
     "year": 2010,
     "poster": "/movie-thumbnails/toy-story-3_2010.jpg"
   },
   {
     "id": 168,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
-    "title": "Tron_ Legacy",
+    "imdbRating": 6.8,
+    "title": "Tron: Legacy",
     "year": 2010,
     "poster": "/movie-thumbnails/tron-legacy_2010.jpg"
   },
@@ -1513,18 +1477,18 @@
   },
   {
     "id": 170,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 5.8,
     "title": "2012",
     "year": 2009,
     "poster": "/movie-thumbnails/2012_2009.jpg"
   },
   {
     "id": 171,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "Avatar",
     "year": 2009,
     "poster": "/movie-thumbnails/avatar_2009.jpg"
@@ -1602,15 +1566,6 @@
     "poster": "/movie-thumbnails/law-abiding-citizen_2009.jpg"
   },
   {
-    "id": 180,
-    "customRating": 0,
-    "genres": ["Comedy"],
-    "imdbRating": 0,
-    "title": "Night at the Museum: Battle of the Smithsonian",
-    "year": 2009,
-    "poster": "/movie-thumbnails/night-at-the-museum-battle-of-the-smithsonian_2009.jpg"
-  },
-  {
     "id": 181,
     "customRating": 0,
     "genres": ["Horror Non-ghost"],
@@ -1621,9 +1576,9 @@
   },
   {
     "id": 182,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.7,
     "title": "Pandorum",
     "year": 2009,
     "poster": "/movie-thumbnails/pandorum_2009.jpg"
@@ -2107,9 +2062,9 @@
   },
   {
     "id": 236,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "Night at the Museum",
     "year": 2006,
     "poster": "/movie-thumbnails/night-at-the-museum_2006.jpg"
@@ -2161,9 +2116,9 @@
   },
   {
     "id": 242,
-    "customRating": 0,
-    "genres": ["Planning"],
-    "imdbRating": 0,
+    "customRating": 8,
+    "genres": ["Planning", "Romance"],
+    "imdbRating": 7.5,
     "title": "The Illusionist",
     "year": 2006,
     "poster": "/movie-thumbnails/the-illusionist_2006.jpg"
@@ -2242,9 +2197,9 @@
   },
   {
     "id": 251,
-    "customRating": 0,
-    "genres": ["Adventure"],
-    "imdbRating": 0,
+    "customRating": 7,
+    "genres": ["Superhero", "Comedy"],
+    "imdbRating": 6.3,
     "title": "Sky High",
     "year": 2005,
     "poster": "/movie-thumbnails/sky-high_2005.jpg"

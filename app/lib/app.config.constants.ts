@@ -9,7 +9,7 @@ const APP_CONFIG = {
   ratings: {
     primaryValue: 0,
     imdbRatings: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
-    customRatings: [10, 9, 8, 7, 6],
+    customRatings: [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
   },
 };
 
