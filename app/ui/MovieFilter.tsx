@@ -19,7 +19,9 @@ const MovieFilter: React.FC<MovieFilterProps> = ({
   title,
 }) => {
   const getSuffixCharacter = (optionValue) =>
-    typeof optionValue === "number" && optionValue < 10 ? "+" : "";
+    typeof optionValue === "number" && optionValue < 10 && optionValue > 0
+      ? "+"
+      : "";
 
   return (
     <Box sx={styles.container}>
