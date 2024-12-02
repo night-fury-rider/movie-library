@@ -56,7 +56,7 @@
   {
     "id": 7,
     "customRating": 7,
-    "genres": ["Animation", "Comedy", "Adventure"],
+    "genres": ["Animation"],
     "imdbRating": 5.7,
     "title": "Ice Age Collision Course",
     "year": 2016,
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "customRating": 9,
-    "genres": ["Animation", "Fantasy"],
+    "genres": ["Animation"],
     "imdbRating": 7.8,
     "title": "How to Train Your Dragon 2",
     "year": 2014,
