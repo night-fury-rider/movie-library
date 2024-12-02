@@ -24,7 +24,7 @@
     "imdbRating": 8.1,
     "title": "Logan",
     "year": 2017,
-    "poster": "/movie-thumbnails/logan_2017.jpg"
+    "poster": "/movie-thumbnails/x-men_2017.jpg"
   },
   {
     "id": 4,
@@ -96,7 +96,7 @@
     "imdbRating": 5.5,
     "title": "Resident Evil: The Final Chapter",
     "year": 2016,
-    "poster": "/movie-thumbnails/resident-evil-the-final-chapter_2016.jpg"
+    "poster": "/movie-thumbnails/resident-evil_2016.jpg"
   },
   {
     "id": 12,
@@ -168,7 +168,7 @@
     "imdbRating": 5.8,
     "title": "Underworld: Blood Wars",
     "year": 2016,
-    "poster": "/movie-thumbnails/underworld-blood-wars_2016.jpg"
+    "poster": "/movie-thumbnails/underworld_2016.jpg"
   },
   {
     "id": 20,
@@ -186,7 +186,7 @@
     "imdbRating": 6.8,
     "title": "X-Men: Apocalypse",
     "year": 2016,
-    "poster": "/movie-thumbnails/x-men-apocalypse_2016.jpg"
+    "poster": "/movie-thumbnails/x-men_2016.jpg"
   },
   {
     "id": 22,
@@ -204,7 +204,7 @@
     "imdbRating": 7.3,
     "title": "Avengers: Age of Ultron",
     "year": 2015,
-    "poster": "/movie-thumbnails/avengers-age-of-ultron_2015.jpg"
+    "poster": "/movie-thumbnails/avengers_2015.jpg"
   },
   {
     "id": 24,
@@ -276,7 +276,7 @@
     "imdbRating": 6.3,
     "title": "Maze Runner: The Scorch Trials",
     "year": 2015,
-    "poster": "/movie-thumbnails/maze-runner-the-scorch-trials_2015.jpg"
+    "poster": "/movie-thumbnails/maze-runner_2015.jpg"
   },
   {
     "id": 32,
@@ -289,12 +289,12 @@
   },
   {
     "id": 33,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Planning", "Action"],
     "imdbRating": 7.4,
     "title": "Mission: Impossible - Rogue Nation",
     "year": 2015,
-    "poster": "/movie-thumbnails/mission-impossible-rogue-nation_2015.jpg"
+    "poster": "/movie-thumbnails/mission-impossible_2015.jpg"
   },
   {
     "id": 34,
@@ -312,7 +312,7 @@
     "imdbRating": 6.3,
     "title": "Terminator Genisys",
     "year": 2015,
-    "poster": "/movie-thumbnails/terminator-genisys_2015.jpg"
+    "poster": "/movie-thumbnails/terminator_2015.jpg"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "imdbRating": 6.6,
     "title": "The Hunger Games: Mockingjay - Part 2",
     "year": 2015,
-    "poster": "/movie-thumbnails/the-hunger-games-mockingjay-part-2_2015.jpg"
+    "poster": "/movie-thumbnails/hunger-games_2015.jpg"
   },
   {
     "id": 37,
@@ -465,7 +465,7 @@
     "imdbRating": 6.2,
     "title": "Night at the Museum: Secret of the Tomb",
     "year": 2014,
-    "poster": "/movie-thumbnails/night-at-the-museum-secret-of-the-tomb_2014.jpg"
+    "poster": "/movie-thumbnails/night-at-the-museum_2014.jpg"
   },
   {
     "id": 54,
@@ -474,7 +474,7 @@
     "imdbRating": 6.3,
     "title": "Rio 2",
     "year": 2014,
-    "poster": "/movie-thumbnails/rio-2_2014.jpg"
+    "poster": "/movie-thumbnails/rio_2014.jpg"
   },
   {
     "id": 55,
@@ -492,7 +492,7 @@
     "imdbRating": 6.1,
     "title": "The Expendables 3",
     "year": 2014,
-    "poster": "/movie-thumbnails/the-expendables-3_2014.jpg"
+    "poster": "/movie-thumbnails/expendables_2014.jpg"
   },
   {
     "id": 57,
@@ -501,7 +501,7 @@
     "imdbRating": 7.4,
     "title": "The Hobbit: The Battle of the Five Armies",
     "year": 2014,
-    "poster": "/movie-thumbnails/the-hobbit-the-battle-of-the-five-armies_2014.jpg"
+    "poster": "/movie-thumbnails/hobbit_2014.jpg"
   },
   {
     "id": 58,
@@ -510,7 +510,7 @@
     "imdbRating": 6.6,
     "title": "The Hunger Games: Mockingjay - Part 1",
     "year": 2014,
-    "poster": "/movie-thumbnails/the-hunger-games-mockingjay-part-1_2014.jpg"
+    "poster": "/movie-thumbnails/hunger-games_2014.jpg"
   },
   {
     "id": 59,
@@ -528,7 +528,7 @@
     "imdbRating": 6.8,
     "title": "The Maze Runner",
     "year": 2014,
-    "poster": "/movie-thumbnails/the-maze-runner_2014.jpg"
+    "poster": "/movie-thumbnails/maze-runner_2014.jpg"
   },
   {
     "id": 61,
@@ -537,7 +537,7 @@
     "imdbRating": 5.6,
     "title": "Transformers: Age of Extinction",
     "year": 2014,
-    "poster": "/movie-thumbnails/transformers-age-of-extinction_2014.jpg"
+    "poster": "/movie-thumbnails/transformers_2014.jpg"
   },
   {
     "id": 62,
@@ -546,7 +546,7 @@
     "imdbRating": 7.9,
     "title": "X-Men: Days of Future Past",
     "year": 2014,
-    "poster": "/movie-thumbnails/x-men-days-of-future-past_2014.jpg"
+    "poster": "/movie-thumbnails/x-men_2014.jpg"
   },
   {
     "id": 63,
@@ -573,7 +573,7 @@
     "imdbRating": 5.4,
     "title": "Death Race 3: Inferno",
     "year": 2013,
-    "poster": "/movie-thumbnails/death-race-inferno_2013.jpg"
+    "poster": "/movie-thumbnails/death-race_2013.jpg"
   },
   {
     "id": 66,
@@ -645,7 +645,7 @@
     "imdbRating": 7.1,
     "title": "Iron Man 3",
     "year": 2013,
-    "poster": "/movie-thumbnails/iron-man-3_2013.jpg"
+    "poster": "/movie-thumbnails/iron-man_2013.jpg"
   },
   {
     "id": 74,
@@ -663,7 +663,7 @@
     "imdbRating": 7.1,
     "title": "Man Of Steel",
     "year": 2013,
-    "poster": "/movie-thumbnails/man-of-steel_2013.jpg"
+    "poster": "/movie-thumbnails/superman_2013.jpg"
   },
   {
     "id": 76,
@@ -672,7 +672,7 @@
     "imdbRating": 7.2,
     "title": "Monsters University",
     "year": 2013,
-    "poster": "/movie-thumbnails/monsters-university_2013.jpg"
+    "poster": "/movie-thumbnails/monsters_2013.jpg"
   },
   {
     "id": 77,
@@ -708,7 +708,7 @@
     "imdbRating": 5.7,
     "title": "Percy Jackson: Sea of Monsters",
     "year": 2013,
-    "poster": "/movie-thumbnails/percy-jackson-sea-of-monsters_2013.jpg"
+    "poster": "/movie-thumbnails/percy-jackson_2013.jpg"
   },
   {
     "id": 81,
@@ -762,7 +762,7 @@
     "imdbRating": 5.8,
     "title": "The Hangover Part III",
     "year": 2013,
-    "poster": "/movie-thumbnails/the-hangover-part-iii_2013.jpg"
+    "poster": "/movie-thumbnails/hangover_2013.jpg"
   },
   {
     "id": 87,
@@ -771,7 +771,7 @@
     "imdbRating": 7.8,
     "title": "The Hobbit: The Desolation of Smaug",
     "year": 2013,
-    "poster": "/movie-thumbnails/the-hobbit-the-desolation-of-smaug_2013.jpg"
+    "poster": "/movie-thumbnails/hobbit_2013.jpg"
   },
   {
     "id": 88,
@@ -780,7 +780,7 @@
     "imdbRating": 7.5,
     "title": "The Hunger Games: Catching Fire",
     "year": 2013,
-    "poster": "/movie-thumbnails/the-hunger-games-catching-fire_2013.jpg"
+    "poster": "/movie-thumbnails/hunger-games_2013.jpg"
   },
   {
     "id": 89,
@@ -789,7 +789,7 @@
     "imdbRating": 6.7,
     "title": "The Wolverine",
     "year": 2013,
-    "poster": "/movie-thumbnails/the-wolverine_2013.jpg"
+    "poster": "/movie-thumbnails/x-men_2013.jpg"
   },
   {
     "id": 90,
@@ -798,7 +798,7 @@
     "imdbRating": 6.7,
     "title": "Thor: The Dark World",
     "year": 2013,
-    "poster": "/movie-thumbnails/thor-the-dark-world_2013.jpg"
+    "poster": "/movie-thumbnails/thor_2013.jpg"
   },
   {
     "id": 91,
@@ -906,7 +906,7 @@
     "imdbRating": 6.8,
     "title": "Men in Black 3",
     "year": 2012,
-    "poster": "/movie-thumbnails/men-in-black-3_2012.jpg"
+    "poster": "/movie-thumbnails/men-in-black_2012.jpg"
   },
   {
     "id": 103,
@@ -933,7 +933,7 @@
     "imdbRating": 5.3,
     "title": "Resident Evil: Retribution",
     "year": 2012,
-    "poster": "/movie-thumbnails/resident-evil-retribution_2012.jpg"
+    "poster": "/movie-thumbnails/resident-evil_2012.jpg"
   },
   {
     "id": 106,
@@ -951,7 +951,7 @@
     "imdbRating": 6.4,
     "title": "Step Up Revolution",
     "year": 2012,
-    "poster": "/movie-thumbnails/step-up-revolution_2012.jpg"
+    "poster": "/movie-thumbnails/step-up_2012.jpg"
   },
   {
     "id": 108,
@@ -978,7 +978,7 @@
     "imdbRating": 8,
     "title": "The Avengers",
     "year": 2012,
-    "poster": "/movie-thumbnails/the-avengers_2012.jpg"
+    "poster": "/movie-thumbnails/avengers_2012.jpg"
   },
   {
     "id": 111,
@@ -1005,7 +1005,7 @@
     "imdbRating": 6.6,
     "title": "The Expendables 2",
     "year": 2012,
-    "poster": "/movie-thumbnails/the-expendables-2_2012.jpg"
+    "poster": "/movie-thumbnails/expendables_2012.jpg"
   },
   {
     "id": 114,
@@ -1014,7 +1014,7 @@
     "imdbRating": 7.8,
     "title": "The Hobbit: An Unexpected Journey",
     "year": 2012,
-    "poster": "/movie-thumbnails/the-hobbit-an-unexpected-journey_2012.jpg"
+    "poster": "/movie-thumbnails/hobbit_2012.jpg"
   },
   {
     "id": 115,
@@ -1023,7 +1023,7 @@
     "imdbRating": 7.2,
     "title": "The Hunger Games",
     "year": 2012,
-    "poster": "/movie-thumbnails/the-hunger-games_2012.jpg"
+    "poster": "/movie-thumbnails/hunger-games_2012.jpg"
   },
   {
     "id": 116,
@@ -1032,7 +1032,7 @@
     "imdbRating": 5.6,
     "title": "The Twilight Saga: Breaking Dawn - Part 2",
     "year": 2012,
-    "poster": "/movie-thumbnails/the-twilight-saga-breaking-dawn-part-2_2012.jpg"
+    "poster": "/movie-thumbnails/twilight_2012.jpg"
   },
   {
     "id": 117,
@@ -1050,7 +1050,7 @@
     "imdbRating": 6.3,
     "title": "Underworld Awakening",
     "year": 2012,
-    "poster": "/movie-thumbnails/underworld-awakening_2012.jpg"
+    "poster": "/movie-thumbnails/underworld_2012.jpg"
   },
   {
     "id": 119,
@@ -1068,7 +1068,7 @@
     "imdbRating": 5.7,
     "title": "Wrath of the Titans",
     "year": 2012,
-    "poster": "/movie-thumbnails/wrath-of-the-titans_2012.jpg"
+    "poster": "/movie-thumbnails/clash-of-the-titans_2012.jpg"
   },
   {
     "id": 121,
@@ -1122,7 +1122,7 @@
     "imdbRating": 7.4,
     "title": "Mission: Impossible - Ghost Protocol",
     "year": 2011,
-    "poster": "/movie-thumbnails/mission-impossible-ghost-protocol_2011.jpg"
+    "poster": "/movie-thumbnails/mission-impossible_2011.jpg"
   },
   {
     "id": 130,
@@ -1140,7 +1140,7 @@
     "imdbRating": 6.6,
     "title": "Pirates of the Caribbean: On Stranger Tides",
     "year": 2011,
-    "poster": "/movie-thumbnails/pirates-of-the-caribbean-on-stranger-tides_2011.jpg"
+    "poster": "/movie-thumbnails/pirates-of-the-caribbean_2011.jpg"
   },
   {
     "id": 132,
@@ -1167,7 +1167,7 @@
     "imdbRating": 7.4,
     "title": "Sherlock Holmes: A Game of Shadows",
     "year": 2011,
-    "poster": "/movie-thumbnails/sherlock-holmes-a-game-of-shadows_2011.jpg"
+    "poster": "/movie-thumbnails/sherlock-holmes_2011.jpg"
   },
   {
     "id": 135,
@@ -1203,7 +1203,7 @@
     "imdbRating": 6.5,
     "title": "The Hangover Part II",
     "year": 2011,
-    "poster": "/movie-thumbnails/the-hangover-part-ii_2011.jpg"
+    "poster": "/movie-thumbnails/hangover_2011.jpg"
   },
   {
     "id": 139,
@@ -1212,7 +1212,7 @@
     "imdbRating": 4.9,
     "title": "The Twilight Saga: Breaking Dawn - Part 1",
     "year": 2011,
-    "poster": "/movie-thumbnails/the-twilight-saga-breaking-dawn-part-1_2011.jpg"
+    "poster": "/movie-thumbnails/twilight_2011.jpg"
   },
   {
     "id": 140,
@@ -1230,7 +1230,7 @@
     "imdbRating": 6.2,
     "title": "Transformers: Dark of the Moon",
     "year": 2011,
-    "poster": "/movie-thumbnails/transformers-dark-of-the-moon_2011.jpg"
+    "poster": "/movie-thumbnails/transformers_2011.jpg"
   },
   {
     "id": 143,
@@ -1239,7 +1239,7 @@
     "imdbRating": 7.7,
     "title": "X-Men: First Class",
     "year": 2011,
-    "poster": "/movie-thumbnails/x-men-first-class_2011.jpg"
+    "poster": "/movie-thumbnails/x-men_2011.jpg"
   },
   {
     "id": 144,
@@ -1320,7 +1320,7 @@
     "imdbRating": 6.9,
     "title": "Iron Man 2",
     "year": 2010,
-    "poster": "/movie-thumbnails/iron-man-2_2010.jpg"
+    "poster": "/movie-thumbnails/iron-man_2010.jpg"
   },
   {
     "id": 153,
@@ -1356,7 +1356,7 @@
     "imdbRating": 5.9,
     "title": "Percy Jackson & the Olympians: The Lightning Thief",
     "year": 2010,
-    "poster": "/movie-thumbnails/percy-jackson-the-olympians-the-lightning-thief_2010.jpg"
+    "poster": "/movie-thumbnails/percy-jackson_2010.jpg"
   },
   {
     "id": 157,
@@ -1365,7 +1365,7 @@
     "imdbRating": 6.4,
     "title": "Predators",
     "year": 2010,
-    "poster": "/movie-thumbnails/predators_2010.jpg"
+    "poster": "/movie-thumbnails/predator_2010.jpg"
   },
   {
     "id": 158,
@@ -1383,7 +1383,7 @@
     "imdbRating": 6.3,
     "title": "Shrek Forever After",
     "year": 2010,
-    "poster": "/movie-thumbnails/shrek-forever-after_2010.jpg"
+    "poster": "/movie-thumbnails/shrek_2010.jpg"
   },
   {
     "id": 160,
@@ -1401,7 +1401,7 @@
     "imdbRating": 6.2,
     "title": "Step Up 3D",
     "year": 2010,
-    "poster": "/movie-thumbnails/step-up-3d_2010.jpg"
+    "poster": "/movie-thumbnails/step-up_2010.jpg"
   },
   {
     "id": 162,
@@ -1437,7 +1437,7 @@
     "imdbRating": 6.4,
     "title": "The Expendables",
     "year": 2010,
-    "poster": "/movie-thumbnails/the-expendables_2010.jpg"
+    "poster": "/movie-thumbnails/expendables_2010.jpg"
   },
   {
     "id": 166,
@@ -1446,7 +1446,7 @@
     "imdbRating": 5.1,
     "title": "The Twilight Saga: Eclipse",
     "year": 2010,
-    "poster": "/movie-thumbnails/the-twilight-saga-eclipse_2010.jpg"
+    "poster": "/movie-thumbnails/twilight_2010.jpg"
   },
   {
     "id": 167,
@@ -1495,18 +1495,18 @@
   },
   {
     "id": 172,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "Daybreakers",
     "year": 2009,
     "poster": "/movie-thumbnails/daybreakers_2009.jpg"
   },
   {
     "id": 173,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "District 9",
     "year": 2009,
     "poster": "/movie-thumbnails/district-9_2009.jpg"
@@ -1531,45 +1531,45 @@
   },
   {
     "id": 176,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "Harry Potter and the Half-Blood Prince",
     "year": 2009,
     "poster": "/movie-thumbnails/harry-potter_2009.jpg"
   },
   {
     "id": 177,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Ice Age: Dawn of the Dinosaurs",
     "year": 2009,
     "poster": "/movie-thumbnails/ice-age_2009.jpg"
   },
   {
     "id": 178,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 5.5,
     "title": "Jennifer's Body",
     "year": 2009,
     "poster": "/movie-thumbnails/jennifers-body_2009.jpg"
   },
   {
     "id": 179,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Law Abiding Citizen",
     "year": 2009,
     "poster": "/movie-thumbnails/law-abiding-citizen_2009.jpg"
   },
   {
     "id": 181,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Horror Non-ghost"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Orphan",
     "year": 2009,
     "poster": "/movie-thumbnails/orphan_2009.jpg"
@@ -1585,99 +1585,99 @@
   },
   {
     "id": 183,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "Sherlock Holmes",
     "year": 2009,
     "poster": "/movie-thumbnails/sherlock-holmes_2009.jpg"
   },
   {
     "id": 184,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Surrogates",
     "year": 2009,
     "poster": "/movie-thumbnails/surrogates_2009.jpg"
   },
   {
     "id": 185,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "Terminator Salvation",
     "year": 2009,
-    "poster": "/movie-thumbnails/terminator-salvation_2009.jpg"
+    "poster": "/movie-thumbnails/terminator_2009.jpg"
   },
   {
     "id": 186,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "The Hangover",
     "year": 2009,
-    "poster": "/movie-thumbnails/the-hangover_2009.jpg"
+    "poster": "/movie-thumbnails/hangover_2009.jpg"
   },
   {
     "id": 187,
-    "customRating": 0,
+    "customRating": 5,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 4.8,
     "title": "The Twilight Saga: New Moon",
     "year": 2009,
-    "poster": "/movie-thumbnails/the-twilight-saga-new-moon_2009.jpg"
+    "poster": "/movie-thumbnails/twilight_2009.jpg"
   },
   {
     "id": 188,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6,
     "title": "Transformers: Revenge of the Fallen",
     "year": 2009,
-    "poster": "/movie-thumbnails/transformers-revenge-of-the-fallen_2009.jpg"
+    "poster": "/movie-thumbnails/transformers_2009.jpg"
   },
   {
     "id": 189,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
-    "title": "Underworld: Rise of the Lycans ",
+    "imdbRating": 6.5,
+    "title": "Underworld: Rise of the Lycans",
     "year": 2009,
-    "poster": "/movie-thumbnails/underworld-rise-of-the-lycans_2009.jpg"
+    "poster": "/movie-thumbnails/underworld_2009.jpg"
   },
   {
     "id": 190,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 8.3,
     "title": "Up",
     "year": 2009,
     "poster": "/movie-thumbnails/up_2009.jpg"
   },
   {
     "id": 191,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "X-Men Origins: Wolverine",
     "year": 2009,
-    "poster": "/movie-thumbnails/x-men-origins-wolverine_2009.jpg"
+    "poster": "/movie-thumbnails/x-men_2009.jpg"
   },
   {
     "id": 192,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Zombieland",
     "year": 2009,
     "poster": "/movie-thumbnails/zombieland_2009.jpg"
   },
   {
     "id": 193,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.8,
     "title": "Bolt",
     "year": 2008,
     "poster": "/movie-thumbnails/bolt_2008.jpg"
@@ -1693,66 +1693,66 @@
   },
   {
     "id": 195,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "Eagle Eye",
     "year": 2008,
     "poster": "/movie-thumbnails/eagle-eye_2008.jpg"
   },
   {
     "id": 196,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Adventure"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Indiana Jones and the Kingdom of the Crystal Skull",
     "year": 2008,
-    "poster": "/movie-thumbnails/indiana-jones-and-the-kingdom-of-the-crystal-skull_2008.jpg"
+    "poster": "/movie-thumbnails/indiana-jones_2008.jpg"
   },
   {
     "id": 197,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "Iron Man",
     "year": 2008,
     "poster": "/movie-thumbnails/iron-man_2008.jpg"
   },
   {
     "id": 198,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Adventure"],
-    "imdbRating": 0,
+    "imdbRating": 5.8,
     "title": "Journey to the Center of the Earth",
     "year": 2008,
     "poster": "/movie-thumbnails/journey-to-the-center-of-the-earth_2008.jpg"
   },
   {
     "id": 199,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Jumper",
     "year": 2008,
     "poster": "/movie-thumbnails/jumper_2008.jpg"
   },
   {
     "id": 200,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "Kung Fu Panda",
     "year": 2008,
     "poster": "/movie-thumbnails/kung-fu-panda_2008.jpg"
   },
   {
     "id": 201,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Dance"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Step Up 2: The Streets",
     "year": 2008,
-    "poster": "/movie-thumbnails/step-up-2-the-streets_2008.jpg"
+    "poster": "/movie-thumbnails/step-up_2008.jpg"
   },
   {
     "id": 202,
@@ -1765,27 +1765,27 @@
   },
   {
     "id": 203,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 9,
     "title": "The Dark Knight",
     "year": 2008,
     "poster": "/movie-thumbnails/batman_2008.jpg"
   },
   {
     "id": 204,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "The Incredible Hulk",
     "year": 2008,
     "poster": "/movie-thumbnails/the-incredible-hulk_2008.jpg"
   },
   {
     "id": 205,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Horror Non-ghost"],
-    "imdbRating": 0,
+    "imdbRating": 5.9,
     "title": "The Ruins",
     "year": 2008,
     "poster": "/movie-thumbnails/the-ruins_2008.jpg"
@@ -1797,13 +1797,13 @@
     "imdbRating": 6.1,
     "title": "Transporter 3",
     "year": 2008,
-    "poster": "/movie-thumbnails/transporter-3_2008.jpg"
+    "poster": "/movie-thumbnails/transporter_2008.jpg"
   },
   {
     "id": 207,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 5.3,
     "title": "Twilight",
     "year": 2008,
     "poster": "/movie-thumbnails/twilight_2008.jpg"
@@ -1819,90 +1819,90 @@
   },
   {
     "id": 209,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 8.4,
     "title": "WALL·E",
     "year": 2008,
     "poster": "/movie-thumbnails/wall-e_2008.jpg"
   },
   {
     "id": 210,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Mystery"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "1408",
     "year": 2007,
     "poster": "/movie-thumbnails/1408_2007.jpg"
   },
   {
     "id": 211,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "30 Days of Night",
     "year": 2007,
     "poster": "/movie-thumbnails/30-days-of-night_2007.jpg"
   },
   {
     "id": 212,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 4.6,
     "title": "Aliens vs Predator - Requiem",
     "year": 2007,
-    "poster": "/movie-thumbnails/aliens-vs-predator-requiem_2007.jpg"
+    "poster": "/movie-thumbnails/alien-vs-predator_2007.jpg"
   },
   {
     "id": 213,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Bee Movie",
     "year": 2007,
     "poster": "/movie-thumbnails/bee-movie_2007.jpg"
   },
   {
     "id": 214,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Horror Ghost"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Dead Silence",
     "year": 2007,
     "poster": "/movie-thumbnails/dead-silence_2007.jpg"
   },
   {
     "id": 215,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
-    "title": "Fantastic 4: Rise of the Silver Surfer",
+    "imdbRating": 5.6,
+    "title": "Fantastic Four: Rise of the Silver Surfer",
     "year": 2007,
-    "poster": "/movie-thumbnails/fantastic-4-rise-of-the-silver-surfer_2007.jpg"
+    "poster": "/movie-thumbnails/fantastic-four_2007.jpg"
   },
   {
     "id": 216,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 5.3,
     "title": "Ghost Rider",
     "year": 2007,
     "poster": "/movie-thumbnails/ghost-rider_2007.jpg"
   },
   {
     "id": 217,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Harry Potter and the Order of the Phoenix",
     "year": 2007,
     "poster": "/movie-thumbnails/harry-potter_2007.jpg"
   },
   {
     "id": 218,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 7.2,
     "title": "I Am Legend",
     "year": 2007,
     "poster": "/movie-thumbnails/i-am-legend_2007.jpg"
@@ -1914,151 +1914,151 @@
     "imdbRating": 7.1,
     "title": "Live Free or Die Hard",
     "year": 2007,
-    "poster": "/movie-thumbnails/live-free-or-die-hard_2007.jpg"
+    "poster": "/movie-thumbnails/die-hard_2007.jpg"
   },
   {
     "id": 220,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
-    "title": "Mr Beans Holiday",
+    "imdbRating": 6.4,
+    "title": "Mr. Bean's Holiday",
     "year": 2007,
     "poster": "/movie-thumbnails/mr-beans-holiday_2007.jpg"
   },
   {
     "id": 221,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Ocean's Thirteen",
     "year": 2007,
-    "poster": "/movie-thumbnails/oceans-thirteen_2007.jpg"
+    "poster": "/movie-thumbnails/oceans_2007.jpg"
   },
   {
     "id": 222,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Horror Ghost"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Paranormal Activity",
     "year": 2007,
     "poster": "/movie-thumbnails/paranormal-activity_2007.jpg"
   },
   {
     "id": 223,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "Pirates of the Caribbean: At World's End",
     "year": 2007,
-    "poster": "/movie-thumbnails/pirates-of-the-caribbean-at-worlds-end_2007.jpg"
+    "poster": "/movie-thumbnails/pirates-of-the-caribbean_2007.jpg"
   },
   {
     "id": 224,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Shrek the Third",
     "year": 2007,
-    "poster": "/movie-thumbnails/shrek-the-third_2007.jpg"
+    "poster": "/movie-thumbnails/shrek_2007.jpg"
   },
   {
     "id": 225,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Spider-Man 3",
     "year": 2007,
-    "poster": "/movie-thumbnails/spider-man-3_2007.jpg"
+    "poster": "/movie-thumbnails/spider-man_2007.jpg"
   },
   {
     "id": 226,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "Stardust",
     "year": 2007,
     "poster": "/movie-thumbnails/stardust_2007.jpg"
   },
   {
     "id": 227,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Dynasours and Animals"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "The Mist",
     "year": 2007,
     "poster": "/movie-thumbnails/the-mist_2007.jpg"
   },
   {
     "id": 228,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Adventure"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "The Water Horse",
     "year": 2007,
     "poster": "/movie-thumbnails/the-water-horse_2007.jpg"
   },
   {
     "id": 229,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "Transformers",
     "year": 2007,
     "poster": "/movie-thumbnails/transformers_2007.jpg"
   },
   {
     "id": 230,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Wars"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "300",
     "year": 2006,
     "poster": "/movie-thumbnails/300_2006.jpg"
   },
   {
     "id": 231,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Cars",
     "year": 2006,
     "poster": "/movie-thumbnails/cars_2006.jpg"
   },
   {
     "id": 232,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "Deja Vu",
     "year": 2006,
     "poster": "/movie-thumbnails/deja-vu_2006.jpg"
   },
   {
     "id": 233,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Eight Below",
     "year": 2006,
     "poster": "/movie-thumbnails/eight-below_2006.jpg"
   },
   {
     "id": 234,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 6.8,
     "title": "Ice Age: The Meltdown",
     "year": 2006,
     "poster": "/movie-thumbnails/ice-age_2006.jpg"
   },
   {
     "id": 235,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Mission Impossible III",
     "year": 2006,
-    "poster": "/movie-thumbnails/mission-impossible-iii_2006.jpg"
+    "poster": "/movie-thumbnails/mission-impossible_2006.jpg"
   },
   {
     "id": 236,
@@ -2071,27 +2071,27 @@
   },
   {
     "id": 237,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Perfume: The Story of a Murderer",
     "year": 2006,
-    "poster": "/movie-thumbnails/perfume-the-story-of-a-murderer_2006.jpg"
+    "poster": "/movie-thumbnails/perfume_2006.jpg"
   },
   {
     "id": 238,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Pirates of the Caribbean: Dead Man's Chest",
     "year": 2006,
-    "poster": "/movie-thumbnails/pirates-of-the-caribbean-dead-mans-chest_2006.jpg"
+    "poster": "/movie-thumbnails/pirates-of-the-caribbean_2006.jpg"
   },
   {
     "id": 239,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Dance"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "Step Up",
     "year": 2006,
     "poster": "/movie-thumbnails/step-up_2006.jpg"
@@ -2107,9 +2107,9 @@
   },
   {
     "id": 241,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Dynasours and Animals"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "The Host",
     "year": 2006,
     "poster": "/movie-thumbnails/the-host_2006.jpg"
@@ -2125,72 +2125,72 @@
   },
   {
     "id": 243,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Mystery"],
-    "imdbRating": 0,
+    "imdbRating": 8.5,
     "title": "The Prestige",
     "year": 2006,
     "poster": "/movie-thumbnails/the-prestige_2006.jpg"
   },
   {
     "id": 244,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 8,
     "title": "The Pursuit of Happyness",
     "year": 2006,
     "poster": "/movie-thumbnails/the-pursuit-of-happyness_2006.jpg"
   },
   {
     "id": 245,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 6.7,
     "title": "Underworld: Evolution",
     "year": 2006,
-    "poster": "/movie-thumbnails/underworld-evolution_2006.jpg"
+    "poster": "/movie-thumbnails/underworld_2006.jpg"
   },
   {
     "id": 246,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "X-Men: The Last Stand",
     "year": 2006,
-    "poster": "/movie-thumbnails/x-men-the-last-stand_2006.jpg"
+    "poster": "/movie-thumbnails/x-men_2006.jpg"
   },
   {
     "id": 247,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "Batman Begins",
     "year": 2005,
     "poster": "/movie-thumbnails/batman_2005.jpg"
   },
   {
     "id": 248,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 5.7,
     "title": "Fantastic Four",
     "year": 2005,
     "poster": "/movie-thumbnails/fantastic-four_2005.jpg"
   },
   {
     "id": 249,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "Harry Potter and the Goblet of Fire",
     "year": 2005,
     "poster": "/movie-thumbnails/harry-potter_2005.jpg"
   },
   {
     "id": 250,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.8,
     "title": "Serenity",
     "year": 2005,
     "poster": "/movie-thumbnails/serenity_2005.jpg"
@@ -2206,27 +2206,27 @@
   },
   {
     "id": 252,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 5.1,
     "title": "Stealth",
     "year": 2005,
     "poster": "/movie-thumbnails/stealth_2005.jpg"
   },
   {
     "id": 253,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Dynasours and Animals"],
-    "imdbRating": 0,
+    "imdbRating": 5.1,
     "title": "The Cave",
     "year": 2005,
     "poster": "/movie-thumbnails/the-cave_2005.jpg"
   },
   {
     "id": 254,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.8,
     "title": "The Island",
     "year": 2005,
     "poster": "/movie-thumbnails/the-island_2005.jpg"
@@ -2238,886 +2238,886 @@
     "imdbRating": 6.3,
     "title": "Transporter 2",
     "year": 2005,
-    "poster": "/movie-thumbnails/transporter-2_2005.jpg"
+    "poster": "/movie-thumbnails/transporter_2005.jpg"
   },
   {
     "id": 256,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 8.1,
     "title": "V for Vendetta",
     "year": 2005,
     "poster": "/movie-thumbnails/v-for-vendetta_2005.jpg"
   },
   {
     "id": 257,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "War of the Worlds",
     "year": 2005,
     "poster": "/movie-thumbnails/war-of-the-worlds_2005.jpg"
   },
   {
     "id": 258,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Adventure"],
-    "imdbRating": 0,
-    "title": "Zathura_ A Space Adventure",
+    "imdbRating": 6.3,
+    "title": "Zathura: A Space Adventure",
     "year": 2005,
     "poster": "/movie-thumbnails/zathura-a-space-adventure_2005.jpg"
   },
   {
     "id": 259,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Alien"],
-    "imdbRating": 0,
-    "title": "Alien Vs Predator",
+    "imdbRating": 5.7,
+    "title": "Alien vs. Predator",
     "year": 2004,
     "poster": "/movie-thumbnails/alien-vs-predator_2004.jpg"
   },
   {
     "id": 260,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Romance"],
-    "imdbRating": 0,
+    "imdbRating": 8.3,
     "title": "Eternal Sunshine of the Spotless Mind",
     "year": 2004,
     "poster": "/movie-thumbnails/eternal-sunshine-of-the-spotless-mind_2004.jpg"
   },
   {
     "id": 261,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "Harry Potter and the Prisoner of Azkaban",
     "year": 2004,
     "poster": "/movie-thumbnails/harry-potter_2004.jpg"
   },
   {
     "id": 262,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "I, Robot",
     "year": 2004,
     "poster": "/movie-thumbnails/i-robot_2004.jpg"
   },
   {
     "id": 263,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "Ocean's Twelve",
     "year": 2004,
-    "poster": "/movie-thumbnails/oceans-twelve_2004.jpg"
+    "poster": "/movie-thumbnails/oceans_2004.jpg"
   },
   {
     "id": 264,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Shrek 2",
     "year": 2004,
-    "poster": "/movie-thumbnails/shrek-2_2004.jpg"
+    "poster": "/movie-thumbnails/shrek_2004.jpg"
   },
   {
     "id": 265,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Spider-Man 2",
     "year": 2004,
-    "poster": "/movie-thumbnails/spider-man-2_2004.jpg"
+    "poster": "/movie-thumbnails/spider-man_2004.jpg"
   },
   {
     "id": 266,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "The Butterfly Effect",
     "year": 2004,
     "poster": "/movie-thumbnails/the-butterfly-effect_2004.jpg"
   },
   {
     "id": 267,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "The Chronicles of Riddick",
     "year": 2004,
-    "poster": "/movie-thumbnails/the-chronicles-of-riddick_2004.jpg"
+    "poster": "/movie-thumbnails/riddick_2004.jpg"
   },
   {
     "id": 268,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "The Day After Tomorrow",
     "year": 2004,
     "poster": "/movie-thumbnails/the-day-after-tomorrow_2004.jpg"
   },
   {
     "id": 269,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Romance"],
-    "imdbRating": 0,
+    "imdbRating": 7.8,
     "title": "The Notebook",
     "year": 2004,
     "poster": "/movie-thumbnails/the-notebook_2004.jpg"
   },
   {
     "id": 270,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "The Terminal",
     "year": 2004,
     "poster": "/movie-thumbnails/the-terminal_2004.jpg"
   },
   {
     "id": 271,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Wars"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Troy",
     "year": 2004,
     "poster": "/movie-thumbnails/troy_2004.jpg"
   },
   {
     "id": 272,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Van Helsing",
     "year": 2004,
     "poster": "/movie-thumbnails/van-helsing_2004.jpg"
   },
   {
     "id": 273,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 5.9,
     "title": "2 Fast 2 Furious",
     "year": 2003,
     "poster": "/movie-thumbnails/fast-and-furious_2003.jpg"
   },
   {
     "id": 274,
-    "customRating": 0,
+    "customRating": 5,
     "genres": ["Horror Ghost"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "A Tale Of Two Sisters",
     "year": 2003,
     "poster": "/movie-thumbnails/a-tale-of-two-sisters_2003.jpg"
   },
   {
     "id": 275,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "Finding Nemo",
     "year": 2003,
     "poster": "/movie-thumbnails/finding-nemo_2003.jpg"
   },
   {
     "id": 276,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 5.6,
     "title": "Hulk",
     "year": 2003,
     "poster": "/movie-thumbnails/hulk_2003.jpg"
   },
   {
     "id": 277,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Paycheck",
     "year": 2003,
     "poster": "/movie-thumbnails/paycheck_2003.jpg"
   },
   {
     "id": 278,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 8.1,
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "year": 2003,
-    "poster": "/movie-thumbnails/pirates-of-the-caribbean-the-curse-of-the-black-pearl_2003.jpg"
+    "poster": "/movie-thumbnails/pirates-of-the-caribbean_2003.jpg"
   },
   {
     "id": 279,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Terminator 3: Rise of the Machines",
     "year": 2003,
-    "poster": "/movie-thumbnails/terminator-3-rise-of-the-machines_2003.jpg"
+    "poster": "/movie-thumbnails/terminator_2003.jpg"
   },
   {
     "id": 280,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 5.8,
     "title": "The League of Extraordinary Gentlemen",
     "year": 2003,
     "poster": "/movie-thumbnails/the-league-of-extraordinary-gentlemen_2003.jpg"
   },
   {
     "id": 281,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 9,
     "title": "The Lord of the Rings: The Return of the King",
     "year": 2003,
-    "poster": "/movie-thumbnails/the-lord-of-the-rings-the-return-of-the-king_2003.jpg"
+    "poster": "/movie-thumbnails/lord-of-the-rings_2003.jpg"
   },
   {
     "id": 282,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.2,
     "title": "The Matrix Reloaded",
     "year": 2003,
-    "poster": "/movie-thumbnails/the-matrix-reloaded_2003.jpg"
+    "poster": "/movie-thumbnails/matrix_2003_01.jpg"
   },
   {
     "id": 283,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 6.7,
     "title": "The Matrix Revolutions",
     "year": 2003,
-    "poster": "/movie-thumbnails/the-matrix-revolutions_2003.jpg"
+    "poster": "/movie-thumbnails/matrix_2003_02.jpg"
   },
   {
     "id": 284,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 6.7,
     "title": "The Rundown",
     "year": 2003,
     "poster": "/movie-thumbnails/the-rundown_2003.jpg"
   },
   {
     "id": 285,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "The Station Agent",
     "year": 2003,
     "poster": "/movie-thumbnails/the-station-agent_2003.jpg"
   },
   {
     "id": 286,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Vampire vs Zombies"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Underworld",
     "year": 2003,
     "poster": "/movie-thumbnails/underworld_2003.jpg"
   },
   {
     "id": 287,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
-    "title": "X-Men 2",
+    "imdbRating": 7.4,
+    "title": "X2: X-Men United",
     "year": 2003,
-    "poster": "/movie-thumbnails/x-men-2_2003.jpg"
+    "poster": "/movie-thumbnails/x-men_2003.jpg"
   },
   {
     "id": 288,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Die Another Day",
     "year": 2002,
     "poster": "/movie-thumbnails/die-another-day_2002.jpg"
   },
   {
     "id": 289,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Equilibrium",
     "year": 2002,
     "poster": "/movie-thumbnails/equilibrium_2002.jpg"
   },
   {
     "id": 290,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Harry Potter and the Chamber of Secrets",
     "year": 2002,
     "poster": "/movie-thumbnails/harry-potter_2002.jpg"
   },
   {
     "id": 291,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Ice Age",
     "year": 2002,
     "poster": "/movie-thumbnails/ice-age_2002.jpg"
   },
   {
     "id": 292,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Men in Black II",
     "year": 2002,
-    "poster": "/movie-thumbnails/men-in-black-ii_2002.jpg"
+    "poster": "/movie-thumbnails/men-in-black_2002.jpg"
   },
   {
     "id": 293,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 7.4,
     "title": "Spider-Man",
     "year": 2002,
     "poster": "/movie-thumbnails/spider-man_2002.jpg"
   },
   {
     "id": 294,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 8.8,
     "title": "The Lord of the Rings: The Two Towers",
     "year": 2002,
-    "poster": "/movie-thumbnails/the-lord-of-the-rings-the-two-towers_2002.jpg"
+    "poster": "/movie-thumbnails/lord-of-the-rings_2002.jpg"
   },
   {
     "id": 295,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 5.5,
     "title": "The Scorpion King",
     "year": 2002,
     "poster": "/movie-thumbnails/the-scorpion-king_2002.jpg"
   },
   {
     "id": 296,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 6.8,
     "title": "The Transporter",
     "year": 2002,
-    "poster": "/movie-thumbnails/the-transporter_2002.jpg"
+    "poster": "/movie-thumbnails/transporter_2002.jpg"
   },
   {
     "id": 297,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Wars"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Enemy at the Gates",
     "year": 2001,
     "poster": "/movie-thumbnails/enemy-at-the-gates_2001.jpg"
   },
   {
     "id": 298,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "Harry Potter and the Sorcerer's Stone",
     "year": 2001,
     "poster": "/movie-thumbnails/harry-potter_2001.jpg"
   },
   {
     "id": 299,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Horror Non-ghost"],
-    "imdbRating": 0,
+    "imdbRating": 6.2,
     "title": "Jeepers Creepers",
     "year": 2001,
     "poster": "/movie-thumbnails/jeepers-creepers_2001.jpg"
   },
   {
     "id": 300,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Dynasours and Animals"],
-    "imdbRating": 0,
+    "imdbRating": 5.9,
     "title": "Jurassic Park III",
     "year": 2001,
     "poster": "/movie-thumbnails/jurassic-park-iii_2001.jpg"
   },
   {
     "id": 301,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
-    "title": "Monsters Inc",
+    "imdbRating": 8.1,
+    "title": "Monsters, Inc.",
     "year": 2001,
-    "poster": "/movie-thumbnails/monsters-inc_2001.jpg"
+    "poster": "/movie-thumbnails/monsters_2001.jpg"
   },
   {
     "id": 302,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 7.7,
     "title": "Ocean's Eleven",
     "year": 2001,
-    "poster": "/movie-thumbnails/oceans-eleven_2001.jpg"
+    "poster": "/movie-thumbnails/oceans_2001.jpg"
   },
   {
     "id": 303,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.7,
     "title": "Rush Hour 2",
     "year": 2001,
     "poster": "/movie-thumbnails/rush-hour-2_2001.jpg"
   },
   {
     "id": 304,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "Shrek",
     "year": 2001,
     "poster": "/movie-thumbnails/shrek_2001.jpg"
   },
   {
     "id": 305,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 6.8,
     "title": "The Fast And The Furious",
     "year": 2001,
     "poster": "/movie-thumbnails/fast-and-furious_2001.jpg"
   },
   {
     "id": 306,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 8.9,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
-    "poster": "/movie-thumbnails/the-lord-of-the-rings-the-fellowship-of-the-ring_2001.jpg"
+    "poster": "/movie-thumbnails/lord-of-the-rings_2001.jpg"
   },
   {
     "id": 307,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "The Mummy Returns",
     "year": 2001,
-    "poster": "/movie-thumbnails/the-mummy-returns_2001.jpg"
+    "poster": "/movie-thumbnails/mummy_2001.jpg"
   },
   {
     "id": 308,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Mystery"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "The Others",
     "year": 2001,
     "poster": "/movie-thumbnails/the-others_2001.jpg"
   },
   {
     "id": 309,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 7.8,
     "title": "Cast Away",
     "year": 2000,
     "poster": "/movie-thumbnails/cast-away_2000.jpg"
   },
   {
     "id": 310,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Wars"],
-    "imdbRating": 0,
+    "imdbRating": 8.5,
     "title": "Gladiator",
     "year": 2000,
     "poster": "/movie-thumbnails/gladiator_2000.jpg"
   },
   {
     "id": 311,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 6.1,
     "title": "Mission Impossible II",
     "year": 2000,
-    "poster": "/movie-thumbnails/mission-impossible-ii_2000.jpg"
+    "poster": "/movie-thumbnails/mission-impossible_2000.jpg"
   },
   {
     "id": 312,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Pitch Black",
     "year": 2000,
     "poster": "/movie-thumbnails/pitch-black_2000.jpg"
   },
   {
     "id": 313,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Unbreakable",
     "year": 2000,
     "poster": "/movie-thumbnails/unbreakable_2000.jpg"
   },
   {
     "id": 314,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 6,
     "title": "Vertical Limit",
     "year": 2000,
     "poster": "/movie-thumbnails/vertical-limit_2000.jpg"
   },
   {
     "id": 315,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Superhero"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "X-Men",
     "year": 2000,
     "poster": "/movie-thumbnails/x-men_2000.jpg"
   },
   {
     "id": 316,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 8.7,
     "title": "The Matrix",
     "year": 1999,
-    "poster": "/movie-thumbnails/the-matrix_1999.jpg"
+    "poster": "/movie-thumbnails/matrix_1999.jpg"
   },
   {
     "id": 317,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Fantasy"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "The Mummy",
     "year": 1999,
-    "poster": "/movie-thumbnails/the-mummy_1999.jpg"
+    "poster": "/movie-thumbnails/mummy_1999.jpg"
   },
   {
     "id": 318,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Mystery"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "The Sixth Sense",
     "year": 1999,
     "poster": "/movie-thumbnails/the-sixth-sense_1999.jpg"
   },
   {
     "id": 319,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "Toy Story 2",
     "year": 1999,
     "poster": "/movie-thumbnails/toy-story-2_1999.jpg"
   },
   {
     "id": 320,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 5,
     "title": "Virus",
     "year": 1999,
     "poster": "/movie-thumbnails/virus_1999.jpg"
   },
   {
     "id": 321,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Rush Hour",
     "year": 1998,
     "poster": "/movie-thumbnails/rush-hour_1998.jpg"
   },
   {
     "id": 322,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.5,
     "title": "Bean",
     "year": 1997,
     "poster": "/movie-thumbnails/bean_1997.jpg"
   },
   {
     "id": 323,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Men in Black",
     "year": 1997,
     "poster": "/movie-thumbnails/men-in-black_1997.jpg"
   },
   {
     "id": 324,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Dynasours and Animals"],
-    "imdbRating": 0,
+    "imdbRating": 6.6,
     "title": "The Lost World: Jurassic Park",
     "year": 1997,
     "poster": "/movie-thumbnails/jurassic-park_1997.jpg"
   },
   {
     "id": 325,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Romance"],
-    "imdbRating": 0,
+    "imdbRating": 7.9,
     "title": "Titanic",
     "year": 1997,
     "poster": "/movie-thumbnails/titanic_1997.jpg"
   },
   {
     "id": 326,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7,
     "title": "Independence Day",
     "year": 1996,
     "poster": "/movie-thumbnails/independence-day_1996.jpg"
   },
   {
     "id": 327,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 7.2,
     "title": "Mission: Impossible",
     "year": 1996,
     "poster": "/movie-thumbnails/mission-impossible_1996.jpg"
   },
   {
     "id": 328,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.4,
     "title": "Ace Ventura: When Nature Calls",
     "year": 1995,
-    "poster": "/movie-thumbnails/ace-ventura-when-nature-calls_1995.jpg"
+    "poster": "/movie-thumbnails/ace-ventura_1995.jpg"
   },
   {
     "id": 329,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Wars"],
-    "imdbRating": 0,
+    "imdbRating": 8.3,
     "title": "Braveheart",
     "year": 1995,
     "poster": "/movie-thumbnails/braveheart_1995.jpg"
   },
   {
     "id": 330,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "Die Hard with a Vengeance",
     "year": 1995,
-    "poster": "/movie-thumbnails/die-hard-with-a-vengeance_1995.jpg"
+    "poster": "/movie-thumbnails/die-hard_1995.jpg"
   },
   {
     "id": 331,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 8.3,
     "title": "Toy Story",
     "year": 1995,
     "poster": "/movie-thumbnails/toy-story_1995.jpg"
   },
   {
     "id": 332,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Comedy"],
-    "imdbRating": 0,
+    "imdbRating": 6.9,
     "title": "Ace Ventura: Pet Detective",
     "year": 1994,
-    "poster": "/movie-thumbnails/ace-ventura-pet-detective_1994.jpg"
+    "poster": "/movie-thumbnails/ace-ventura_1994.jpg"
   },
   {
     "id": 333,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Speed",
     "year": 1994,
     "poster": "/movie-thumbnails/speed_1994.jpg"
   },
   {
     "id": 334,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Planning"],
-    "imdbRating": 0,
+    "imdbRating": 9.3,
     "title": "The Shawshank Redemption",
     "year": 1994,
     "poster": "/movie-thumbnails/the-shawshank-redemption_1994.jpg"
   },
   {
     "id": 335,
-    "customRating": 0,
+    "customRating": 9,
     "genres": ["Dynasours and Animals"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "Jurassic Park",
     "year": 1993,
     "poster": "/movie-thumbnails/jurassic-park_1993.jpg"
   },
   {
     "id": 336,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Drama"],
-    "imdbRating": 0,
+    "imdbRating": 9,
     "title": "Schindlers List",
     "year": 1993,
     "poster": "/movie-thumbnails/schindlers-list_1993.jpg"
   },
   {
     "id": 337,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Animation"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "Beauty and the Beast",
     "year": 1991,
     "poster": "/movie-thumbnails/beauty-and-the-beast_1991.jpg"
   },
   {
     "id": 338,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
-    "title": "Terminator 2: Judgement Day",
+    "imdbRating": 8.6,
+    "title": "Terminator 2: Judgment Day",
     "year": 1991,
-    "poster": "/movie-thumbnails/terminator-2-judgement-day_1991.jpg"
+    "poster": "/movie-thumbnails/terminator_1991.jpg"
   },
   {
     "id": 339,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 7.1,
     "title": "Die Hard 2",
     "year": 1990,
-    "poster": "/movie-thumbnails/die-hard-2_1990.jpg"
+    "poster": "/movie-thumbnails/die-hard_1990.jpg"
   },
   {
     "id": 340,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 6.3,
     "title": "Predator 2",
     "year": 1990,
-    "poster": "/movie-thumbnails/predator-2_1990.jpg"
+    "poster": "/movie-thumbnails/predator_1990.jpg"
   },
   {
     "id": 341,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Adventure"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "Indiana Jones and the Last Crusade",
     "year": 1989,
-    "poster": "/movie-thumbnails/indiana-jones-and-the-last-crusade_1989.jpg"
+    "poster": "/movie-thumbnails/indiana-jones_1989.jpg"
   },
   {
     "id": 342,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "The Abyss",
     "year": 1989,
     "poster": "/movie-thumbnails/the-abyss_1989.jpg"
   },
   {
     "id": 343,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "Die Hard",
     "year": 1988,
     "poster": "/movie-thumbnails/die-hard_1988.jpg"
   },
   {
     "id": 344,
-    "customRating": 0,
+    "customRating": 10,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 7.8,
     "title": "Predator",
     "year": 1987,
     "poster": "/movie-thumbnails/predator_1987.jpg"
   },
   {
     "id": 345,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 7.6,
     "title": "The Fly",
     "year": 1986,
     "poster": "/movie-thumbnails/the-fly_1986.jpg"
   },
   {
     "id": 346,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Adventure"],
-    "imdbRating": 0,
+    "imdbRating": 7.5,
     "title": "Indiana Jones and the Temple of Doom",
     "year": 1984,
-    "poster": "/movie-thumbnails/indiana-jones-and-the-temple-of-doom_1984.jpg"
+    "poster": "/movie-thumbnails/indiana-jones_1984.jpg"
   },
   {
     "id": 347,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Sci-Fi"],
-    "imdbRating": 0,
+    "imdbRating": 8.1,
     "title": "The Terminator",
     "year": 1984,
-    "poster": "/movie-thumbnails/the-terminator_1984.jpg"
+    "poster": "/movie-thumbnails/terminator_1984.jpg"
   },
   {
     "id": 348,
-    "customRating": 0,
+    "customRating": 6.8,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 6,
     "title": "Rocky III",
     "year": 1982,
-    "poster": "/movie-thumbnails/rocky-iii_1982.jpg"
+    "poster": "/movie-thumbnails/rocky_1982.jpg"
   },
   {
     "id": 349,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 8.2,
     "title": "The Thing",
     "year": 1982,
     "poster": "/movie-thumbnails/the-thing_1982.jpg"
   },
   {
     "id": 350,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Adventure"],
-    "imdbRating": 0,
-    "title": "Raiders of the Lost Ark",
+    "imdbRating": 8.4,
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
     "year": 1981,
-    "poster": "/movie-thumbnails/raiders-of-the-lost-ark_1981.jpg"
+    "poster": "/movie-thumbnails/indiana-jones_1981.jpg"
   },
   {
     "id": 351,
-    "customRating": 0,
+    "customRating": 8,
     "genres": ["Alien"],
-    "imdbRating": 0,
+    "imdbRating": 8.5,
     "title": "Alien",
     "year": 1979,
     "poster": "/movie-thumbnails/alien_1979.jpg"
   },
   {
     "id": 352,
-    "customRating": 0,
+    "customRating": 6,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 7.3,
     "title": "Rocky II",
     "year": 1979,
-    "poster": "/movie-thumbnails/rocky-ii_1979.jpg"
+    "poster": "/movie-thumbnails/rocky_1979.jpg"
   },
   {
     "id": 353,
-    "customRating": 0,
+    "customRating": 7,
     "genres": ["Action"],
-    "imdbRating": 0,
+    "imdbRating": 8.1,
     "title": "Rocky",
     "year": 1976,
     "poster": "/movie-thumbnails/rocky_1976.jpg"
