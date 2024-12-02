@@ -18,6 +18,9 @@ const MovieFilter: React.FC<MovieFilterProps> = ({
   setSelectedFilter,
   title,
 }) => {
+  const getSuffixCharacter = (optionValue) =>
+    typeof optionValue === "number" && optionValue < 10 ? "+" : "";
+
   return (
     <Box sx={styles.container}>
       {/* Genre Filter */}
@@ -34,7 +37,7 @@ const MovieFilter: React.FC<MovieFilterProps> = ({
           {options.map((optionValue, index) => (
             <MenuItem value={optionValue} key={`${index}_${optionValue}`}>
               {optionValue}
-              {typeof optionValue === "number" ? "+" : ""}
+              {getSuffixCharacter(optionValue)}
             </MenuItem>
           ))}
         </Select>
