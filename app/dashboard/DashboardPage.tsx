@@ -125,7 +125,7 @@ const DashboardPage = () => {
 };
 
 const styles = {
-  container: { paddingTop: 2 },
+  container: { paddingTop: 2, paddingBottom: 2 },
   filters: {
     alignItems: "center",
   },
