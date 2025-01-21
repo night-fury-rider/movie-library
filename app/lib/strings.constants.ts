@@ -32,7 +32,7 @@ export const MOVIES = {
       "Comedy",
       "Dance",
       "Drama",
-      "Dynasours and Animals",
+      "Dinosaurs and Animals",
       "Fantasy",
       "Horror Ghost",
       "Horror Non-ghost",
