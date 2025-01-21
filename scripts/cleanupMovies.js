@@ -12,8 +12,8 @@ const removeDuplicateMovies = (moviesData) => {
   let movieSet = new Set();
 
   let uniqueData = moviesData.filter((currentMovie) => {
-    if (!movieSet.has(currentMovie.title)) {
-      movieSet.add(currentMovie.title);
+    if (!movieSet.has(`${currentMovie.title}_${currentMovie.year}`)) {
+      movieSet.add(`${currentMovie.title}_${currentMovie.year}`);
       return true;
     }
     return false;
