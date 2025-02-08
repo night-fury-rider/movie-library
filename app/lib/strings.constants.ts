@@ -1,7 +1,7 @@
 // Use this file as single source of truth for all strings/messages which are visible to user (including error messages)
 // Prefer keeping strings inside appropriate module objects
 
-export const COMMON = {
+const COMMON = {
   colorScheme: {
     light: "light",
     dark: "dark",
@@ -15,41 +15,58 @@ export const COMMON = {
   },
 };
 
-export const MOVIES = {
+const DASHBOARD = {
+  filters: {
+    genres: {
+      categories: [
+        "Action",
+        "Adventure",
+        "Alien",
+        "Animation",
+        "Comedy",
+        "Dance",
+        "Drama",
+        "Dinosaurs and Animals",
+        "Fantasy",
+        "Horror Ghost",
+        "Horror Non-ghost",
+        "Mystery",
+        "Planning",
+        "Romance",
+        "Sci-Fi",
+        "Superhero",
+        "Vampire vs Zombies",
+        "Wars",
+      ],
+      primaryTitle: "All",
+      title: "Genre",
+    },
+    languages: {
+      categories: ["English", "Hindi", "Korean", "Marathi"],
+      primaryTitle: "All",
+      title: "Languages",
+    },
+    moreFilters: {
+      expandMore: {
+        tooltip: "Expand Filters",
+      },
+      expandLess: {
+        tooltip: "Collapse Filters",
+      },
+    },
+    ratings: {
+      primaryTitle: "All",
+    },
+    searchbar: {
+      title: "Search Movies",
+    },
+  },
   card: {
     customRating: "Yuvraj",
     genre: "Genre",
     imdbRating: "IMDB",
     year: "Year",
   },
-  genres: {
-    primaryTitle: "All",
-    categories: [
-      "Action",
-      "Adventure",
-      "Alien",
-      "Animation",
-      "Comedy",
-      "Dance",
-      "Drama",
-      "Dinosaurs and Animals",
-      "Fantasy",
-      "Horror Ghost",
-      "Horror Non-ghost",
-      "Mystery",
-      "Planning",
-      "Romance",
-      "Sci-Fi",
-      "Superhero",
-      "Vampire vs Zombies",
-      "Wars",
-    ],
-  },
-  ratings: {
-    primaryTitle: "All",
-  },
-
-  searchbar: {
-    title: "Search Movies",
-  },
 };
+
+export { COMMON, DASHBOARD };

@@ -8,7 +8,7 @@ import {
   Chip,
 } from "@mui/material";
 import APP_CONFIG from "../lib/app.config.constants";
-import { MOVIES } from "../lib/strings.constants";
+import { DASHBOARD } from "../lib/strings.constants";
 
 export interface iMovieCardProps {
   customRating: number;
@@ -56,17 +56,17 @@ const MovieCard: React.FC<iMovieCardProps> = ({
         <Box sx={styles.ratingContainer}>
           {/* IMDB Rating */}
           <Typography variant="body2" color="text.secondary" sx={styles.rating}>
-            {MOVIES.card.imdbRating} {imdbRating}
+            {DASHBOARD.card.imdbRating} {imdbRating}
           </Typography>
 
           {/* Custom Rating */}
           <Typography variant="body2" color="text.secondary" sx={styles.rating}>
-            {MOVIES.card.customRating} {customRating}
+            {DASHBOARD.card.customRating} {customRating}
           </Typography>
 
           {/* Year */}
           <Typography variant="body2" color="text.secondary" sx={styles.rating}>
-            {MOVIES.card.year} {year}
+            {DASHBOARD.card.year} {year}
           </Typography>
         </Box>
       </CardContent>
