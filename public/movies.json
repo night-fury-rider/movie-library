@@ -1,5 +1,17 @@
 [
   {
+    "title": "Elevation",
+    "year": 2024,
+    "printQuality": "720",
+    "languages": ["English"],
+    "id": 1,
+    "customRating": 7,
+    "genres": ["Alien"],
+    "imdbRating": 5.6,
+    "poster": "/movie-thumbnails/elevation_2024.jpg",
+    "seriesName": ""
+  },
+  {
     "title": "The Beekeeper",
     "year": 2024,
     "printQuality": "720",
