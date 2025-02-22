@@ -45,6 +45,6 @@ pnpm run cleanup
 
 It will do a cleanup on database. It will perform following actions
 
-- Perform Indexation
 - Sort movies by year (reverse chronological order)
+- Assign new ids to movies as per new order.
 - Remove the duplicate movies
