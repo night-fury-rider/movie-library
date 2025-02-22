@@ -36,3 +36,15 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+# Cleanup the movies data
+
+```bash
+pnpm run cleanup
+```
+
+It will do a cleanup on database. It will perform following actions
+
+- Perform Indexation
+- Sort movies by year (reverse chronological order)
+- Remove the duplicate movies
