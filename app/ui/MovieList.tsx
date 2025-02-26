@@ -1,7 +1,6 @@
 import React from "react";
 import { Box } from "@mui/material";
 import MovieCard, { iMovieCardProps } from "./MovieCard";
-import MovieCount from "./MovieCount";
 
 interface MovieListProps {
   movies: iMovieCardProps[];
