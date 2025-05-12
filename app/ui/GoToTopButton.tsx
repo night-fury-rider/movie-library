@@ -29,7 +29,7 @@ const GoToTopButton: React.FC = () => {
   const scrollToTop = (): void => {
     window.scrollTo({
       top: 0,
-      behavior: "smooth", // Enables smooth scrolling to the top
+      behavior: "smooth",
     });
   };
 
