@@ -42,9 +42,19 @@ const DASHBOARD = {
       title: "Genre",
     },
     languages: {
-      categories: ["English", "Hindi", "Korean", "Marathi"],
+      categories: [
+        "English",
+        "Gujarati",
+        "Hindi",
+        "Kannada",
+        "Korean",
+        "Malayalam",
+        "Marathi",
+        "Tamil",
+        "Telugu",
+      ],
       primaryTitle: "All",
-      title: "Languages",
+      title: "Audio Languages",
     },
     moreFilters: {
       expandMore: {
