@@ -54,7 +54,7 @@ const DASHBOARD = {
         "Telugu",
       ],
       primaryTitle: "All",
-      title: "Audio Languages",
+      title: "Audio Language",
     },
     moreFilters: {
       expandMore: {
