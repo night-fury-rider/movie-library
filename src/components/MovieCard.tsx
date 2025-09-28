@@ -33,7 +33,9 @@ const MovieCard: React.FC<iMovieCardProps> = ({
       <CardMedia
         component="img"
         height={"314"}
-        image={poster || APP_CONFIG.card.defaultPoster}
+        image={`${process.env.NEXT_PUBLIC_BASE_PATH}${
+          poster || APP_CONFIG.card.defaultPoster
+        }`}
         alt={title}
         sx={styles.cardMedia}
       />
