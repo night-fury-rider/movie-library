@@ -89,28 +89,7 @@ const getTotalAmountInSelectedUnit = (amount: number, unit = 100000) => {
   return Number((amount / unit).toFixed(APP_CONFIG.decimalPlaces));
 };
 
-/**
- * Exports app data from sessionStorage and triggers a download of the data as a JSON file.
- */
-const downloadData = () => {
-  const data = JSON.parse(
-    StorageService.get(APP_CONFIG.sessionStorage.storageAppData)
-  );
-
-  const jsonString = JSON.stringify(data, null, 2);
-  const blob = new Blob([jsonString], { type: "application/json" });
-  const url = URL.createObjectURL(blob);
-
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = APP_CONFIG.download.fileName;
-  a.click();
-
-  URL.revokeObjectURL(url);
-};
-
 export {
-  downloadData,
   formatDate,
   generateRandomHexColor,
   getClonedObject,
