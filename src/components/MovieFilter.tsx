@@ -1,24 +1,24 @@
 import React from "react";
 import { Select, MenuItem, FormControl, InputLabel, Box } from "@mui/material";
 
-interface MovieFilterProps {
+interface MovieFilterProps<T extends string | number> {
   primaryOptionLabel?: string;
-  primaryOptionValue?: string | number;
-  options: string[] | number[];
-  selectedFilter: string | number;
-  setSelectedFilter: React.Dispatch<React.SetStateAction<string | number>>;
+  primaryOptionValue?: T;
+  options: T[];
+  selectedFilter: T;
+  setSelectedFilter: React.Dispatch<React.SetStateAction<T>>;
   title: string;
 }
 
-const MovieFilter: React.FC<MovieFilterProps> = ({
+const MovieFilter = <T extends string | number>({
   primaryOptionLabel,
   primaryOptionValue,
   options,
   selectedFilter,
   setSelectedFilter,
   title,
-}) => {
-  const getSuffixCharacter = (optionValue) =>
+}: MovieFilterProps<T>) => {
+  const getSuffixCharacter = (optionValue: T) =>
     typeof optionValue === "number" && optionValue < 10 && optionValue > 0
       ? "+"
       : "";
@@ -30,7 +30,7 @@ const MovieFilter: React.FC<MovieFilterProps> = ({
         <InputLabel>{title}</InputLabel>
         <Select
           value={selectedFilter}
-          onChange={(e) => setSelectedFilter(e.target.value)}
+          onChange={(e) => setSelectedFilter(e.target.value as T)}
           label={title}
           sx={styles.dropdown}
         >
