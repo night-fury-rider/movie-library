@@ -14,15 +14,17 @@ import Grid from "@mui/material/Grid2";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import ExpandLessIcon from "@mui/icons-material/ExpandLess";
 
-import APP_CONFIG from "../lib/app.config.constants";
-import moviesData from "../../public/movies.json";
-import MovieFilter from "../ui/MovieFilter";
-import MovieList from "../ui/MovieList";
-import { DASHBOARD } from "../lib/strings.constants";
-import MovieCount from "../ui/MovieCount";
-import GoToTopButton from "../ui/GoToTopButton";
+import APP_CONFIG from "$/constants/app.config.constants";
+import { DASHBOARD } from "$/constants/strings.constants";
 
-const DashboardPage = () => {
+import moviesData from "$/public/movies.json";
+
+import MovieFilter from "$/components/MovieFilter";
+import MovieList from "$/components/MovieList";
+import MovieCount from "$/components/MovieCount";
+import GoToTopButton from "$/components/GoToTopButton";
+
+const Dashboard = () => {
   const [movies, setMovies] = useState(moviesData);
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedGenre, setSelectedGenre] = useState(
@@ -206,4 +208,4 @@ const styles = {
   },
 };
 
-export default DashboardPage;
+export default Dashboard;

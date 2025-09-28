@@ -7,8 +7,8 @@ import {
   Box,
   Chip,
 } from "@mui/material";
-import APP_CONFIG from "../lib/app.config.constants";
-import { DASHBOARD } from "../lib/strings.constants";
+import APP_CONFIG from "$/constants/app.config.constants";
+import { DASHBOARD } from "$/constants/strings.constants";
 
 export interface iMovieCardProps {
   customRating: number;
