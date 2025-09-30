@@ -2,7 +2,6 @@
 
 <img width="100%" height="400" alt="Screenshot 2025-09-30 at 8 57 30 AM" src="https://github.com/user-attachments/assets/b2a95dd8-44a9-4957-aab5-cb8d1a32ecbc" />
 
-
 ## 📖 About
 
 It is a modern, responsive web app that lets you effortlessly explore a curated movie collection, featuring rich details like thumbnails, genres, IMDB ratings, and custom ratings, with intuitive search and filter options for a personalized viewing experience.
@@ -11,12 +10,11 @@ It is a modern, responsive web app that lets you effortlessly explore a curated 
 
 ## 🚀 Features
 
-- ✅ Search movies by title  
-- 🎭 Filter by **genre**, **language**, and **ratings**  
-- ⭐ Separate support for **IMDB** and **custom ratings**  
-- 📊 Movie count display  
-- 📱 Responsive design with Material UI components  
-
+- ✅ Search movies by title
+- 🎭 Filter by **genre**, **language**, and **ratings**
+- ⭐ Separate support for **IMDB** and **custom ratings**
+- 📊 Movie count display
+- 📱 Responsive design with Material UI components
 
 ---
 
@@ -37,18 +35,17 @@ It is a modern, responsive web app that lets you effortlessly explore a curated 
 ## Prerequisite
 
 - Node 20+
-- PNPM 9+
 
 ### Install Dependencies:
 
 ```bash
-pnpm i
+npm i
 ```
 
 ### run the development server:
 
 ```bash
-pnpm dev
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -56,7 +53,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 # Cleanup the movies data
 
 ```bash
-pnpm run cleanup
+npm run cleanup
 ```
 
 It will do a cleanup on database. It will perform following actions
