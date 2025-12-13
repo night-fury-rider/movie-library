@@ -1,4 +1,4 @@
-import { readFileContent, writeFileContent } from "./fileOperations.js";
+import { readFileContent, writeFileContent } from "./file-operations.js";
 
 console.log(`Movie Extraction Started`);
 

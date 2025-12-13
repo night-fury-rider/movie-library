@@ -1,6 +1,6 @@
 import { readdirSync } from "fs";
 
-import { readFileContent, renameFile } from "./fileOperations.js";
+import { readFileContent, renameFile } from "./file-operations.js";
 
 console.log(`Poster Renaming Started`);
 
