@@ -1,16 +1,12 @@
 {
-  "name": "nextjs-app-01",
-  "version": "0.0.1",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "next dev",
-    "build": "npm run cleanup && next build",
-    "cleanup": "cd scripts && node cleanupMovies.js",
-    "start": "next start",
-    "lint": "next lint",
-    "extract_movies": "cd scripts && node extractMovies.js",
-    "rename_posters": "cd scripts && node renamePosters.js"
+  "author": "Yuvraj Patil",
+  "description": "It is a modern, responsive web app that lets you effortlessly explore a curated movie collection, featuring rich details like thumbnails, genres, IMDB ratings, and custom ratings, with intuitive search and filter options for a personalized viewing experience.",
+  "devDependencies": {
+    "@types/node": "22.9.2",
+    "@types/react": "18.3.12",
+    "typescript": "5.7.2",
+    "eslint": "9.39.2",
+    "eslint-config-next": "16.0.10"
   },
   "dependencies": {
     "@emotion/cache": "11.13.5",
@@ -21,17 +17,24 @@
     "@mui/material": "6.1.8",
     "@mui/material-nextjs": "6.1.9",
     "clsx": "2.1.1",
-    "next": "15.0.0-canary.56",
-    "react": "19.0.0-rc-f38c22b244-20240704",
-    "react-dom": "19.0.0-rc-f38c22b244-20240704",
+    "next": "16.0.10",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
     "react-spring": "9.7.4"
   },
   "engines": {
     "node": ">=20.12.0"
   },
-  "devDependencies": {
-    "@types/node": "22.9.2",
-    "@types/react": "18.3.12",
-    "typescript": "5.7.2"
-  }
+  "name": "nextjs-app-01",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run cleanup && next build",
+    "cleanup": "cd scripts && node cleanup-movies.js",
+    "start": "next start",
+    "lint": "next lint",
+    "extract_movies": "cd scripts && node extract-movies.js",
+    "rename_posters": "cd scripts && node rename-posters.js"
+  },
+  "version": "0.0.1"
 }
