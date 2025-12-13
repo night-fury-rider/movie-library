@@ -79,7 +79,7 @@ const Dashboard = () => {
     if (selectedOriginalLanguage) {
       filteredMovies = filteredMovies.filter(
         (movie) =>
-          movie?.orginialLanguage === selectedOriginalLanguage ||
+          movie?.originalLanguage === selectedOriginalLanguage ||
           selectedOriginalLanguage ===
             DASHBOARD?.filters?.originalLanguage.primaryTitle
       );
