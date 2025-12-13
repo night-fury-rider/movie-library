@@ -41,21 +41,21 @@ const DASHBOARD = {
       primaryTitle: "All",
       title: "Genre",
     },
-    languages: {
-      categories: [
-        "English",
-        "Gujarati",
-        "Hindi",
-        "Kannada",
-        "Korean",
-        "Malayalam",
-        "Marathi",
-        "Tamil",
-        "Telugu",
-      ],
+    audioLanguage: {
       primaryTitle: "All",
       title: "Audio Language",
     },
+    languages: [
+      "English",
+      "Gujarati",
+      "Hindi",
+      "Kannada",
+      "Korean",
+      "Malayalam",
+      "Marathi",
+      "Tamil",
+      "Telugu",
+    ],
     moreFilters: {
       expandMore: {
         tooltip: "Expand Filters",
@@ -63,6 +63,10 @@ const DASHBOARD = {
       expandLess: {
         tooltip: "Collapse Filters",
       },
+    },
+    originalLanguage: {
+      primaryTitle: "All",
+      title: "Original Language",
     },
     ratings: {
       primaryTitle: "All",

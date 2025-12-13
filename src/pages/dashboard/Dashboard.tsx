@@ -35,8 +35,11 @@ const Dashboard = () => {
   const [selectedCustomRating, setSelectedCustomRating] = useState(0);
   const [areFiltersExpanded, setAreFiltersExpanded] = useState(false);
 
-  const [selectedLanguage, setSelectedLanguage] = useState(
-    DASHBOARD?.filters?.languages.primaryTitle
+  const [selectedOriginalLanguage, setSelectedOriginalLanguage] = useState(
+    DASHBOARD?.filters?.originalLanguage.primaryTitle
+  );
+  const [selectedAudioLanguage, setSelectedAudioLanguage] = useState(
+    DASHBOARD?.filters?.audioLanguage.primaryTitle
   );
 
   useEffect(() => {
@@ -72,12 +75,24 @@ const Dashboard = () => {
       );
     }
 
-    // Apply language filter
-    if (selectedLanguage) {
+    // Apply Original language filter
+    if (selectedOriginalLanguage) {
       filteredMovies = filteredMovies.filter(
         (movie) =>
-          movie.languages.indexOf(selectedLanguage) > -1 ||
-          selectedLanguage === DASHBOARD?.filters?.languages.primaryTitle
+          movie?.orginialLanguage === selectedOriginalLanguage ||
+          selectedOriginalLanguage ===
+            DASHBOARD?.filters?.originalLanguage.primaryTitle
+      );
+    }
+
+    // Apply Audio language filter
+    if (selectedAudioLanguage) {
+      filteredMovies = filteredMovies.filter(
+        (movie) =>
+          (Array.isArray(movie?.audioLanguages) &&
+            movie.audioLanguages.indexOf(selectedAudioLanguage) > -1) ||
+          selectedAudioLanguage ===
+            DASHBOARD?.filters?.audioLanguage.primaryTitle
       );
     }
 
@@ -88,7 +103,8 @@ const Dashboard = () => {
     selectedGenre,
     selectedIMDBRating,
     selectedCustomRating,
-    selectedLanguage,
+    selectedOriginalLanguage,
+    selectedAudioLanguage,
   ]);
 
   const handleFilterExpansion = () => {
@@ -168,19 +184,34 @@ const Dashboard = () => {
             {/* Flexbox container for search and filters */}
             <Box sx={styles.searchAndFilterContainer}>
               <Grid container spacing={2}>
+                {/* Original Language Filter  */}
                 <Grid offset={{ xs: 0, md: 4.5 }} size={{ xs: 6, md: 2 }}>
-                  {/* Language Filter  */}
                   <MovieFilter
                     primaryOptionLabel={
-                      DASHBOARD?.filters?.languages.primaryTitle
+                      DASHBOARD?.filters?.originalLanguage.primaryTitle
                     }
                     primaryOptionValue={
-                      DASHBOARD?.filters?.languages.primaryTitle
+                      DASHBOARD?.filters?.originalLanguage.primaryTitle
                     }
-                    options={DASHBOARD?.filters?.languages.categories}
-                    selectedFilter={selectedLanguage}
-                    setSelectedFilter={setSelectedLanguage}
-                    title={DASHBOARD?.filters?.languages.title}
+                    options={DASHBOARD?.filters?.languages}
+                    selectedFilter={selectedOriginalLanguage}
+                    setSelectedFilter={setSelectedOriginalLanguage}
+                    title={DASHBOARD?.filters?.originalLanguage.title}
+                  />
+                </Grid>
+                {/* Audio Language Filter  */}
+                <Grid size={{ xs: 6, md: 2 }}>
+                  <MovieFilter
+                    primaryOptionLabel={
+                      DASHBOARD?.filters?.audioLanguage.primaryTitle
+                    }
+                    primaryOptionValue={
+                      DASHBOARD?.filters?.audioLanguage.primaryTitle
+                    }
+                    options={DASHBOARD?.filters?.languages}
+                    selectedFilter={selectedAudioLanguage}
+                    setSelectedFilter={setSelectedAudioLanguage}
+                    title={DASHBOARD?.filters?.audioLanguage.title}
                   />
                 </Grid>
               </Grid>
