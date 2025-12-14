@@ -33,6 +33,7 @@
     "cleanup": "cd scripts && node cleanup-movies.js",
     "dev": "next dev",
     "extract_movies": "cd scripts && node extract-movies.js",
+    "get-movie-titles": "node scripts/get-movie-titles.js",
     "lint": "next lint",
     "rename_posters": "cd scripts && node rename-posters.js",
     "start": "next start"
