@@ -17,7 +17,7 @@ import ExpandLessIcon from "@mui/icons-material/ExpandLess";
 import APP_CONFIG from "$/constants/app.config.constants";
 import { DASHBOARD } from "$/constants/strings.constants";
 
-import moviesData from "$/public/movies.json";
+import moviesData from "$/public/data/movies.json";
 
 import MovieFilter from "$/components/MovieFilter";
 import MovieList from "$/components/MovieList";
