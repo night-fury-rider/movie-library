@@ -28,13 +28,14 @@
   "name": "nextjs-app-01",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "add-new-property": "node scripts/add-new-property.js",
     "build": "npm run cleanup && next build",
     "cleanup": "cd scripts && node cleanup-movies.js",
-    "start": "next start",
-    "lint": "next lint",
+    "dev": "next dev",
     "extract_movies": "cd scripts && node extract-movies.js",
-    "rename_posters": "cd scripts && node rename-posters.js"
+    "lint": "next lint",
+    "rename_posters": "cd scripts && node rename-posters.js",
+    "start": "next start"
   },
   "version": "0.0.1"
 }
