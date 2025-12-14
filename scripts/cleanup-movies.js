@@ -3,7 +3,7 @@ import { readFileContent, writeFileContent } from "./file-operations.js";
 console.log(`Movie Cleanup Started`);
 
 let scriptPath = import.meta.dirname;
-let dataFilePath = scriptPath.replace(/scripts/g, `public/movies.json`);
+let dataFilePath = scriptPath.replace(/scripts/g, `public/data/movies.json`);
 
 const moviesData = readFileContent(dataFilePath);
 let updatedMoviesData = "";
